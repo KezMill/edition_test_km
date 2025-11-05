@@ -82,7 +82,7 @@ Once you’ve entered your initial settings, click “create repository” at th
 
 It will take a few moments to set up your new repository. After it’s created, GitHub will automatically redirect you to your repository’s home page. 
 
->> =<u>Note</u>=: Your repository home page is what GitHub calls your repository’s “**main branch**.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
+>> `<u>Note</u>`: Your repository home page is what GitHub calls your repository’s “**main branch**.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
 
 ![Figure 5: edition_test_km Repository Home Page](https://)
 
@@ -100,8 +100,7 @@ The following step-by-step instructions on making changes apply to **<u>all</u>*
 
 Locate and open the file that you need to edit in your repository’s main branch: <span style="color: #E44C31;">**_config.yml**</span>
 
-![Image 1] (https://github.com/KezMill/edition_test_km/blob/e553e0f263a1dd18b2e72972a3d4f9948cf3562d/assets/images/guide/metadata_elements.png)
-
+![Image 1]
 
 Next, to make a change, switch to “edit” mode by clicking the pencil icon in the top-right corner of the file. You will not be able to make any changes if you are not in edit mode. 
 
@@ -117,7 +116,7 @@ Before you can commit your changes, GitHub will present you with the option to k
 
 Click “commit changes” to update your file.  
 
-REMOVE???Now that you know how to make and commit changes to your files, let’s walk through how to update your settings in the <span style="color: #E44C31;">**_config.yml**</span> file to update your URL and BaseRUL and how to customize your edition site!
+REMOVE???Now that you know how to make and commit changes to your files, let’s walk through how to update your URL and BaseRUL and how to customize your edition site!
 
 #### **Change URL and Base URL in _config.yml**
 
@@ -140,15 +139,15 @@ To edit and add your metadata, click the pencil icon in the top right corner and
 - title
 - URL and base URL: both must match your published site (see <span style="color: #265095;">[above](#change-url-and-base-url-in-_config.yml)</span> for instructions). 
 - description
-
+<br>
 **Navigation Metadata**
-<br>- header pages
-
+- header pages
+<br>
 **Banner Metadata**
 - banner image
 - banner alt text
 - banner size
-- 
+<br>
 **Additional Site Information Metadata** 
 - editor
 - contact information
@@ -163,7 +162,7 @@ ADD MORE INFO HERE
 Usually, you won’t need to change anything at the bottom of the file under “Other Settings.”
 
 #### **Home Page Configuration**
-To edit the home page of your site, you’ll need to edit the <span style="color: #E44C31;">**index.md**</span> and potentially make some changes in <span style="color: #E44C31;"**_config.yml**</span>, if you haven’t already. Instructions are provided in both files.
+To edit the home page of your site, you’ll need to edit the <span style="color: #E44C31;">**index.md**</span> and potentially make some changes in <span style="color: #E44C31;">**_config.yml**</span>, if you haven’t already. Instructions are provided in both files.
 
 #### **About Page Configuration**
 To edit the About page, make changes to the about.md file found in the main branch of your repository. If you don’t want to have an About page, delete that file instead.
@@ -171,7 +170,7 @@ To edit the About page, make changes to the about.md file found in the main bran
 #### **Adding New Pages**
 You can add new pages to your site by creating new Markdown (.md) files. 
 
-> <u>Note</u>: A page is a file. On your published site, the file functions as a web page.
+> `<u>Note</u>`: A page is a file. On your published site, the file functions as a web page.
 
 To add a new page, click “Add file” in the top-right corner of your repository’s main branch, and click “Create a new file.” 
 
@@ -181,7 +180,7 @@ FINISH
 
 ADD MORE HERE
 
->> <u>Note:</u> A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead. 
+>> `<u>Note</u>`: A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead. 
 
 ### **<u>Step 5: Publishing Your Edition Site </u>**
 To publish your project edition site with GitHub pages, click “Settings” at the top of your edition’s repository home page. This will direct you to the setting’s “General” page, see Fig. #.
@@ -230,7 +229,7 @@ Your project will use three types of naming conventions: a long name, a short na
 
 > **short name**: The name for your edition’s GitHub repository. 
 
->> <u>Note</u>: The repository name can only contain upper and lowercase letters and underscores ( _ ). We recommend choosing two or three key words from your edition’s long name and using underscores where there would generally be spaces (e.g., johnston_wanderers).
+>> `<u>Note</u>`: The repository name can only contain upper and lowercase letters and underscores ( _ ). We recommend choosing two or three key words from your edition’s long name and using underscores where there would generally be spaces (e.g., johnston_wanderers).
 
 > **edition prefix**: A brief unique identifier that precedes file names for your edition, which should be included every time you create and name a file.
 
@@ -251,7 +250,7 @@ In list form, using our color-coded **folder paths**, we explain what each folde
 
 <span style="color: #63AEB6;">**items**</span>: ready-to-publish Markdown transcriptions. You will upload Markdown-encoded documents (.md files) here manually.
 
->> <u>Note</u>: If you are working with multiple genres, use the subfolders in <span style="color: #63AEB6;">**items**</span> to organize your files by genre. The sample files in the template are organized by <span style="color: #E44C31;">**books**</span>, <span style="color: #E44C31;">**periodicals**</span>, and <span style="color: #E44C31;">**poems**</span>.
+>> `<u>Note</u>`: If you are working with multiple genres, use the subfolders in <span style="color: #63AEB6;">**items**</span> to organize your files by genre. The sample files in the template are organized by <span style="color: #E44C31;">**books**</span>, <span style="color: #E44C31;">**periodicals**</span>, and <span style="color: #E44C31;">**poems**</span>.
 
 <span style="color: #63AEB6;">**source**</span>: Markdown drafts, TEI drafts, Markdown sample files for built-in genres, and Ruby script
 
@@ -267,7 +266,7 @@ In list form, using our color-coded **folder paths**, we explain what each folde
 
 <span style="color: #63AEB6;">**assets**</span>/<span style="color: #F7894E;">**images**</span>: home page banner image, site footer logos or marks, TEI-based page images
  
->> <u>Note</u>: To replace the home page banner image with a custom banner image, follow the instructions in
+>> `<u>Note</u>`: To replace the home page banner image with a custom banner image, follow the instructions in
 <span style="color: #265095;">[Step 4](#step-4-configuring-your-edition-site)</span>.
 
 <span style="color: #63AEB6;">**assets**</span>/<span style="color: #F7894E;">**images**</span>/<span style="color: #E44C31;">**tei**</span>: if you are using TEI and would like to include page images as part of your edition, add the image files to this folder.
