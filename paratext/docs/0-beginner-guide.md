@@ -23,7 +23,7 @@ permalink: documentation/beginner
 ### **<u>Step 1: Create a GitHub account</u>**
 [GitHub](https://github.com/) is a free, open-access resource that stores files that can run a website; it can also host that website thanks to a feature called [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages). 
 
-<u>If you do **not** have a GitHub account</u>, follow the [instructions on GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) to create one.	
+If you do **not** have a GitHub account, follow the [instructions on GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) to create one.	
 
 ### **<u>Step 2: Create Template Edition</u>**
 
