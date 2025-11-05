@@ -132,7 +132,7 @@ Read through the file to familiarize yourself. **The lines starting with a #** i
 
 You will add metadata to each element listed in the file, see Fig. 7 below:
 
-![metadata_elements](assets/images/guide/metadata_elements.png)
+![alt text](https://github.com/KezMill/edition_test_km/blob/8db76ed207244abeb0edf21757f8e49b17b28f2d/assets/images/guide/metadata_elements.png “metadata elements”)
 
 To edit and add your metadata, click the pencil icon in the top right corner and, from top to bottom, edit elements found under each section:
 
@@ -142,11 +142,13 @@ To edit and add your metadata, click the pencil icon in the top right corner and
 - description
 
 **Navigation Metadata**
-- header pages
+<br>- header pages
+
 **Banner Metadata**
 - banner image
 - banner alt text
 - banner size
+- 
 **Additional Site Information Metadata** 
 - editor
 - contact information
@@ -169,7 +171,7 @@ To edit the About page, make changes to the about.md file found in the main bran
 #### **Adding New Pages**
 You can add new pages to your site by creating new Markdown (.md) files. 
 
-> <u>Note</u>: _A page is a file. On your published site, the file functions as a web page._
+> <u>Note</u>: A page is a file. On your published site, the file functions as a web page.
 
 To add a new page, click “Add file” in the top-right corner of your repository’s main branch, and click “Create a new file.” 
 
@@ -179,7 +181,7 @@ FINISH
 
 ADD MORE HERE
 
->> <u>Note:</u> _A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead._ 
+>> <u>Note:</u> A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead. 
 
 ### **<u>Step 5: Publishing Your Edition Site </u>**
 To publish your project edition site with GitHub pages, click “Settings” at the top of your edition’s repository home page. This will direct you to the setting’s “General” page, see Fig. #.
@@ -228,7 +230,7 @@ Your project will use three types of naming conventions: a long name, a short na
 
 > **short name**: The name for your edition’s GitHub repository. 
 
->> <u>Note</u>: _The repository name can only contain upper and lowercase letters and underscores ( _ ). We recommend choosing two or three key words from your edition’s long name and using underscores where there would generally be spaces (e.g., johnston_wanderers)._
+>> <u>Note</u>: The repository name can only contain upper and lowercase letters and underscores ( _ ). We recommend choosing two or three key words from your edition’s long name and using underscores where there would generally be spaces (e.g., johnston_wanderers).
 
 > **edition prefix**: A brief unique identifier that precedes file names for your edition, which should be included every time you create and name a file.
 
@@ -241,27 +243,36 @@ There are several <span style="color: #63AEB6;">**main folders**</span> and <spa
 
 In list form, using our color-coded **folder paths**, we explain what each folder contains, providing additional information as needed. 
 
-> <span style="color: #63AEB6;">**paratext**</span>: docs and essays subfolders
+<span style="color: #63AEB6;">**paratext**</span>: docs and essays subfolders
+
 > <span style="color: #63AEB6;">**paratext**</span>/<span style="color: #F7894E;">**docs**</span>: documentation materials
+
 > <span style="color: #63AEB6;">**paratext**</span>/<span style="color: #F7894E;">**essays**</span>: essays and other paratext that accompany your edition
-> <span style="color: #63AEB6;">**items**</span>: ready-to-publish Markdown transcriptions. You will upload Markdown-encoded documents (.md files) here manually.
->> <u>Note</u>: _If you are working with multiple genres, use the subfolders in <span style="color: #63AEB6;">**items**</span> to organize your files by genre. The sample files in the template are organized by <span style="color: #E44C31;">**books**</span>, <span style="color: #E44C31;">**periodicals**</span>, and <span style="color: #E44C31;">**poems**</span>._
-> <span style="color: #63AEB6;">**source**</span>: Markdown drafts, TEI drafts, Markdown sample files for built-in genres, and Ruby script
+
+<span style="color: #63AEB6;">**items**</span>: ready-to-publish Markdown transcriptions. You will upload Markdown-encoded documents (.md files) here manually.
+
+>> <u>Note</u>: If you are working with multiple genres, use the subfolders in <span style="color: #63AEB6;">**items**</span> to organize your files by genre. The sample files in the template are organized by <span style="color: #E44C31;">**books**</span>, <span style="color: #E44C31;">**periodicals**</span>, and <span style="color: #E44C31;">**poems**</span>.
+
+<span style="color: #63AEB6;">**source**</span>: Markdown drafts, TEI drafts, Markdown sample files for built-in genres, and Ruby script
+
 > <span style="color: #63AEB6;">**source**</span>/<span style="color: #F7894E;">**drafts**</span>: Markdown drafts and TEI drafts 
->> <u>Note</u>: _Your drafts folder can be (re)organized to your liking. However, we recommend organizing them by file type (e.g. markdown or tei) as they are in this sample. You can choose to edit your transcriptions directly on GitHub in the drafts folder to create a version history, but this isn’t necessary! If you do, you will need to copy them over to the ready-to-publish items folder._
+
+>> `<u>Note</u>`: Your drafts folder can be (re)organized to your liking. However, we recommend organizing them by file type (e.g. markdown or tei) as they are in this sample. You can choose to edit your transcriptions directly on GitHub in the drafts folder to create a version history, but this isn’t necessary! If you do, you will need to copy them over to the ready-to-publish items folder.
+
 > <span style="color: #63AEB6;">**source**</span>/<span style="color: #F7894E;">**drafts**</span>/<span style="color: #E44C31;">**markdown**</span>: blank sample files for each of the built-in genres (books, periodicals, and poems), which include all the hard-coded metadata fields ready for you to fill in.
+
 > <span style="color: #63AEB6;">**source**</span>/<span style="color: #F7894E;">**tei**</span>: your ready-to-publish TEI-encoded documents (.xml files).
 
-> <span style="color: #63AEB6;">**texts**</span>: <span style="color: #E44C31;">**Markdown**</span> files that correspond to your <span style="color: #E44C31;">**TEI**</span> files.
+<span style="color: #63AEB6;">**texts**</span>: <span style="color: #E44C31;">**Markdown**</span> files that correspond to your <span style="color: #E44C31;">**TEI**</span> files.
 
-> <span style="color: #63AEB6;">**assets**</span>/<span style="color: #F7894E;">**images**</span>: home page banner image, site footer logos or marks, TEI-based page images
+<span style="color: #63AEB6;">**assets**</span>/<span style="color: #F7894E;">**images**</span>: home page banner image, site footer logos or marks, TEI-based page images
  
->> <u>Note</u>: _To replace the home page banner image with a custom banner image, follow the instructions in_
+>> <u>Note</u>: To replace the home page banner image with a custom banner image, follow the instructions in
 <span style="color: #265095;">[Step 4](#step-4-configuring-your-edition-site)</span>.
 
 <span style="color: #63AEB6;">**assets**</span>/<span style="color: #F7894E;">**images**</span>/<span style="color: #E44C31;">**tei**</span>: if you are using TEI and would like to include page images as part of your edition, add the image files to this folder.
 
-Other folders beginning with an underscore (<span style="color: #63AEB6;">_includes</span>, <span style="color: #63AEB6;">_layouts</span>, etc.) contain files and code for the Jekyll site and theme.
+Other folders beginning with an underscore (<span style="color: #63AEB6;">**_includes**</span>, <span style="color: #63AEB6;">**_layouts**</span>, etc.) contain files and code for the Jekyll site and theme.
 
 #### **Transcribing & Editing**
 For detailed documentation on transcribing sources, organizing files, and preparing your edition for online publication, see our Markdown Transcription tutorial. 
