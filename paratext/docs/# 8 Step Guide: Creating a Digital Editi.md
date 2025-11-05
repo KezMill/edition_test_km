@@ -1,4 +1,8 @@
-
+---
+layout: paginate
+title: 8 Step Guide: Creating a Digital Edition
+permalink: 8 Step Guide
+---
 
 
 # 8 Step Guide: Creating a Digital Edition
