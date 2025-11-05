@@ -82,7 +82,7 @@ Once you’ve entered your initial settings, click “create repository” at th
 
 It will take a few moments to set up your new repository. After it’s created, GitHub will automatically redirect you to your repository’s home page. 
 
->> `<u>Note</u>`: Your repository home page is what GitHub calls your repository’s “**main branch**.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
+>> <u>`Note`</u>: Your repository home page is what GitHub calls your repository’s “**main branch**.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
 
 ![Figure 5: edition_test_km Repository Home Page](https://)
 
@@ -131,7 +131,7 @@ Read through the file to familiarize yourself. **The lines starting with a #** i
 
 You will add metadata to each element listed in the file, see Fig. 7 below:
 
-![alt text](https://github.com/KezMill/edition_test_km/blob/8db76ed207244abeb0edf21757f8e49b17b28f2d/assets/images/guide/metadata_elements.png “metadata elements”)
+![image]
 
 To edit and add your metadata, click the pencil icon in the top right corner and, from top to bottom, edit elements found under each section:
 
@@ -170,7 +170,7 @@ To edit the About page, make changes to the about.md file found in the main bran
 #### **Adding New Pages**
 You can add new pages to your site by creating new Markdown (.md) files. 
 
-> `<u>Note</u>`: A page is a file. On your published site, the file functions as a web page.
+> <u>=Note=</u>: A page is a file. On your published site, the file functions as a web page.
 
 To add a new page, click “Add file” in the top-right corner of your repository’s main branch, and click “Create a new file.” 
 
