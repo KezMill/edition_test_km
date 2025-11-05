@@ -75,7 +75,7 @@ Repository names <u>**cannot**</u> contain spaces, so we recommend using undersc
 
 > <u>**Private**</u>: Many people prefer to keep their repository private until the release is ready. If the repository is private, only the members you add will be able to see that it exists. To learn more about adding members, see <span style="color: #265095;">[inviting collaborators to a personal repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository)</span> in GitHub’s documentation.
 
->><u>**Public**</u>: To publish your edition with GitHub Pages, your visibility settings <u>**must**</u> be set to Public, which can be changed at any time. Refer to <span style="color: #265095;">Step 7</span> for instructions on updating visibility settings at a later time. 
+> <u>**Public**</u>: To publish your edition with GitHub Pages, your visibility settings <u>**must**</u> be set to Public, which can be changed at any time. Refer to <span style="color: #265095;">Step 7</span> for instructions on updating visibility settings at a later time. 
 
 ![privacy](https://)
 
@@ -83,7 +83,7 @@ Once you’ve entered your initial settings, click “create repository” at th
 
 It will take a few moments to set up your new repository. After it’s created, GitHub will automatically redirect you to your repository’s home page [Fig. 5]. 
 
->> <u>Note</u>: Your repository home page is what GitHub calls your repository’s “main branch.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
+>> ++Note++: Your repository home page is what GitHub calls your repository’s “main branch.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
 
 ![Figure 5: edition_test_km Repository Home Page](https://)
 
