@@ -12,7 +12,7 @@ permalink: documentation/beginner
 [Step 2: Create Template Edition](#step-2-create-template-edition) <br>
 [Step 3: GitHub Repository Setting Recommendations](#step-3-github-repository-setting-recommendations) <br>
 [Step 4: Configuring Your Edition Site](#step-4-configuring-your-edition-site) <br>
-[Step 5: Publish Your Edition Site](#step-5-publish-your-edition-site) <br>
+[Step 5: Publishing Your Edition Site](#step-5-publishing-your-edition-site) <br>
 
 #### **<u>Additional Considerations</u>**
 [Naming Your Project](#naming-your-project) <br>
@@ -181,7 +181,7 @@ ADD MORE HERE
 
 >> <u>Note:</u> A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead. 
 
-### **<u>Step 5: Publish your Edition Site </u>**
+### **<u>Step 5: Publishing your Edition Site </u>**
 To publish your project edition site with GitHub pages, click “Settings” at the top of your edition’s repository home page. This will direct you to the setting’s “General” page [Fig. #].
 
 ![image](https://)
