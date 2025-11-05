@@ -17,16 +17,16 @@ Step 6: Configuring Your Edition Site <br>
 Step 7: Publishing Your Edition <br>
 Step 8: Updating Edition’s URL and Base URL <br>
 
-#### <u>**Additional Considerations**</u>
+#### **<u>Additional Considerations</u>**
 Markdown Transcribing & Editing <br>
 Troubleshooting
 
-### <u>**Step 1: Create a GitHub account**</u>
+### **<u>Step 1: Create a GitHub account</u>**
 [GitHub](https://github.com/) is a free, open-access resource that stores files that can run a website; it can also host that website thanks to a feature called [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages). 
 
 <u>If you do **not** have a GitHub account</u>, follow the [instructions on GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) to create one.	
 
-### <u>**Step 2: Create Template Edition**</u>
+### **<u>Step 2: Create Template Edition</u>**
 
 To get started with your own edition, you’ll need to create a GitHub repository for your project using our Recovery Hub edition template. 
 
@@ -42,7 +42,7 @@ Click the “Use this template” [Fig. 2] button at the top-right of the reposi
 After clicking on “Create a new repository,” GitHub will immediately take you to a page to set initial key settings for your new repository. Below, in <span style="color: #265095;">Step 3</span>, we share our setting suggestions.  
 
 
-### <u>**Step 3: GitHub Repository Setting Recommendations**</u>
+### **<u>Step 3: GitHub Repository Setting Recommendations</u>**
 
 On the “Create a new repository” page [Fig. 4], you will be asked to choose your preferred repository settings. Below, we list the setting fields GitHub offers when creating a new repository along with our recommendations for each:
 
@@ -83,11 +83,11 @@ Once you’ve entered your initial settings, click “create repository” at th
 
 It will take a few moments to set up your new repository. After it’s created, GitHub will automatically redirect you to your repository’s home page [Fig. 5]. 
 
->> ++Note++: Your repository home page is what GitHub calls your repository’s “main branch.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
+>> <u>Note</u>: Your repository home page is what GitHub calls your repository’s “main branch.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
 
 ![Figure 5: edition_test_km Repository Home Page](https://)
 
-### <u>**Step 4: Naming Your Project**</u>
+### **<u>Step 4: Naming Your Project</u>**
 
 Your project will use three types of naming conventions: a long name, a short name, and an edition prefix.
 
@@ -95,15 +95,15 @@ Your project will use three types of naming conventions: a long name, a short na
 
 > **short name**: The name for your edition’s GitHub repository. 
 
-<u>**Note**</u>: _The repository name can only contain upper and lowercase letters and underscores ( _ ). We recommend choosing two or three key words from your edition’s long name and using underscores where there would generally be spaces (e.g., johnston_wanderers)._
+>> <u>Note</u>: _The repository name can only contain upper and lowercase letters and underscores ( _ ). We recommend choosing two or three key words from your edition’s long name and using underscores where there would generally be spaces (e.g., johnston_wanderers)._
 
->**edition prefix**: A brief unique identifier that precedes file names for your edition, which should be included every time you create and name a file.
+> **edition prefix**: A brief unique identifier that precedes file names for your edition, which should be included every time you create and name a file.
 
 Keep the prefix name basic and limited to five characters (numbers or letters) or fewer; it can indicate the edition’s version (e.g., ed1) or reflect the project's name.
 
 ADD ADDITIONAL INFO
 
-### <u>**Step 5: Folder Structure & Organization**</u>
+### **<u>Step 5: Folder Structure & Organization</u>**
 
 There are several <span style="color: #63AEB6;">**main folders**</span> and <span style="color: #F7894E;">**subfolders**</span> you will primarily use. These folders will store various <span style="color: #E44C31;">**files**</span>, including but not limited to your documents, Markdown transcriptions, images, and more. 
 
@@ -117,13 +117,13 @@ In list form, using our color-coded **folder paths**, we explain what each folde
 
 <span style="color: #63AEB6;">**items**</span>: ready-to-publish Markdown transcriptions. You will upload Markdown-encoded documents (.md files) here manually.
 
-<u>**Note**</u>: _If you are working with multiple genres, use the subfolders in <span style="color: #63AEB6;">**items**</span> to organize your files by genre. The sample files in the template are organized by <span style="color: #E44C31;">**books**</span>, <span style="color: #E44C31;">**periodicals**</span>, and <span style="color: #E44C31;">**poems**</span>._
+>> <u>Note</u>: _If you are working with multiple genres, use the subfolders in <span style="color: #63AEB6;">**items**</span> to organize your files by genre. The sample files in the template are organized by <span style="color: #E44C31;">**books**</span>, <span style="color: #E44C31;">**periodicals**</span>, and <span style="color: #E44C31;">**poems**</span>._
 
 <span style="color: #63AEB6;">**source**</span>: Markdown drafts, TEI drafts, Markdown sample files for built-in genres, and Ruby script
 
 <span style="color: #63AEB6;">**source**</span>/<span style="color: #F7894E;">**drafts**</span>: Markdown drafts and TEI drafts 
 
-<u>**Note**</u>: _Your drafts folder can be (re)organized to your liking. However, we recommend organizing them by file type (e.g. markdown or tei) as they are in this sample. You can choose to edit your transcriptions directly on GitHub in the drafts folder to create a version history, but this isn’t necessary! If you do, you will need to copy them over to the ready-to-publish items folder._
+>> <u>Note</u>: _Your drafts folder can be (re)organized to your liking. However, we recommend organizing them by file type (e.g. markdown or tei) as they are in this sample. You can choose to edit your transcriptions directly on GitHub in the drafts folder to create a version history, but this isn’t necessary! If you do, you will need to copy them over to the ready-to-publish items folder._
 
 <span style="color: #63AEB6;">**source**</span>/<span style="color: #F7894E;">**drafts**</span>/<span style="color: #E44C31;">**markdown**</span>: blank sample files for each of the built-in genres (books, periodicals, and poems), which include all the hard-coded metadata fields ready for you to fill in.
 
@@ -133,7 +133,7 @@ In list form, using our color-coded **folder paths**, we explain what each folde
 
 <span style="color: #63AEB6;">**assets**</span>/<span style="color: #F7894E;">**images**</span>: home page banner image, site footer logos or marks, TEI-based page images
 
-<u>**Note**</u>: _To replace the home page banner image with a custom banner image, follow the instructions under
+>> <u>Note</u>: _To replace the home page banner image with a custom banner image, follow the instructions under
 <span style="color: #265095;">Configuring Your Edition Site</span> in Step 6._
 
 <span style="color: #63AEB6;">**assets**</span>/<span style="color: #F7894E;">**images**</span>/<span style="color: #E44C31;">**tei**</span>: if you are using TEI and would like to include page images as part of your edition, add the image files to this folder.
@@ -141,7 +141,7 @@ In list form, using our color-coded **folder paths**, we explain what each folde
 
 Other folders beginning with an underscore (<span style="color: #63AEB6;">**_includes**</span>, <span style="color: #63AEB6;">**_layouts**</span>, etc.) contain files and code for the Jekyll site and theme.
 
-### <u>**Step 6: Configuring Your Edition Site**</u>
+### **<u>Step 6: Configuring Your Edition Site</u>**
 The Recovery Hub template allows you to customize your edition by making changes (editing settings) in the <span style="color: #E44C31;">**_config.yml**</span> file. 
 
 The <span style="color: #E44C31;">**_config.yml**</span> file contains settings that affect your whole site. <u>Listed below are the settings you will need to edit, along with instructions on how to modify</u> them for your edition site. You will only need to do this once; rarely will you need to make any edits afterward. 
@@ -226,9 +226,9 @@ To add a new page, click “Add file” in the top-right corner of your reposito
 
 ADD MORE HERE
 
-Note: A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead. 
+>> <u>Note:</u> A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead. 
 
-### <u>**Step 7: Publishing your site with GitHub Pages**</u>
+### **<u>Step 7: Publishing your site with GitHub Pages</u>**
 To publish your project edition site, click “Settings” at the top of your edition’s repository home page. This will direct you to the setting’s “General” page [Fig. #].
 
 ![image](https://)
@@ -266,13 +266,13 @@ ADD SECTION
 
 ADD SECTION
 
-### <u>**Additional Considerations**</u>
+### **<u>Additional Considerations</u>**
 
-**Transcription & Editing**
+#### **Transcription & Editing**
 <br>For detailed documentation on transcribing sources, organizing files, and preparing your edition for online publication, see our Markdown Transcription tutorial. 
 
 If you plan to use TEI in your edition, you may also link directly to the TEI Guide.
 
-**Troubleshooting**
+#### **Troubleshooting**
 <br>If you’re experiencing problems with your GitHub Pages site, the official GitHub Pages documentation has detailed troubleshooting information and is a good place to start.
 
