@@ -35,7 +35,8 @@ First, visit the Recovery Hub’s [repository home page](https://github.com/reco
 
 Click the “Use this template” button at the top-right of the repository homepage, then select “Create a new repository” to copy it to your GitHub account.
 
-![ Figure 2: “Use this template”](https://)   
+![Figure 2](/assets/images/guide/use-this-template.png “Figure 2: “Use this template””)
+
 ![Figure 3: “Create a new repository”](https://)
 
 After clicking on “Create a new repository,” GitHub will immediately take you to a page to set initial settings for your new repository. Below, in <span style="color: #265095;">[Step 3](#step-3-github-repository-setting-recommendations)</span>, we share our setting suggestions.  
@@ -82,7 +83,7 @@ Once you’ve entered your initial settings, click “create repository” at th
 
 It will take a few moments to set up your new repository. After it’s created, GitHub will automatically redirect you to your repository’s home page. 
 
->> <u>`Note`</u>: Your repository home page is what GitHub calls your repository’s “**main branch**.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
+>> **`Note`**: Your repository home page is what GitHub calls your repository’s “**main branch**.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
 
 ![Figure 5: edition_test_km Repository Home Page](https://)
 
