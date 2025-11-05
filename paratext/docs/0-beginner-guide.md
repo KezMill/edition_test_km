@@ -1,7 +1,7 @@
 ---
 layout: paginate
 title: Creating a Digital Edition
-permalink: Guide
+permalink: documentation/beginner
 ---
 
 
