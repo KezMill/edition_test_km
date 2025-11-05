@@ -9,7 +9,7 @@ Welcome to the Recovery Hub for American Women Writers’ template for text-base
 
 ## Documentation & Guides
 
-- [Creating a Digital Edition](
+- [Creating a Digital Edition](https://kezmill.github.io/edition_test_km/documentation/beginner)
 - [Getting Started](https://recoveryhub.github.io/edition_template/documentation/setup)
 - [Configuring Your Site](https://recoveryhub.github.io/edition_template/documentation/site-config)
 - [Transcribing Materials](https://recoveryhub.github.io/edition_template/documentation/transcription)
