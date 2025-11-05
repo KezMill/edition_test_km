@@ -9,17 +9,16 @@ permalink: documentation/beginner
 
 ### **<u>Table of Contents</u>**
 [Step 1: Create a GitHub account](#step-1-create-a-github-account) <br>
-Step 2: Create Template Edition <br>
-Step 3: GitHub Repository: Setting Recommendations <br>
-Step 4: Naming Your Project <br>
-Step 5: Folder Structure & Organization <br>
-Step 6: Configuring Your Edition Site <br>
-Step 7: Publishing Your Edition <br>
-Step 8: Updating Edition’s URL and Base URL <br>
+[Step 2: Create Template Edition](#step-2-create-template-edition) <br>
+[Step 3: GitHub Repository Setting Recommendations](#step-3-github-repository-setting-recommendations) <br>
+[Step 4: Configuring Your Edition Site](#step-4-configuring-your-edition-site) <br>
+[Step 5: Publish Your Edition Site](#step-5-publish-your-edition-site) <br>
 
 #### **<u>Additional Considerations</u>**
-Markdown Transcribing & Editing <br>
-Troubleshooting
+[Naming Your Project](#naming-your-project) <br>
+[Folder Structure & Organization](#folder-structure-&-organization) <br>
+[Transcribing & Editing](#transcribing-&-editing) <br>
+[Troubleshooting](#troubleshooting) <br>
 
 ### **<u>Step 1: Create a GitHub account</u>**
 [GitHub](https://github.com/) is a free, open-access resource that stores files that can run a website; it can also host that website thanks to a feature called [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages). 
@@ -64,7 +63,7 @@ On the “Create a new repository” page [Fig. 4], you will be asked to choose 
 
 ![repository name](https://)
 
-Repository names <u>**cannot**</u> contain spaces, so we recommend using underscores in place of the spaces (e.g., edition_test_km). See <span style="color: #265095;">Step 4</span> for more on naming your project.
+Repository names **<u>cannot</u>** contain spaces, so we recommend using underscores in place of the spaces (e.g., edition_test_km). See <span style="color: #265095;">Naming Your Project</span> for more.
 
     
 **Description**: Optional. You can always add or change later. 
@@ -73,9 +72,9 @@ Repository names <u>**cannot**</u> contain spaces, so we recommend using undersc
 
 **Visibility**: It’s up to you. Either way, people will not be able to make changes without your approval.
 
-> <u>**Private**</u>: Many people prefer to keep their repository private until the release is ready. If the repository is private, only the members you add will be able to see that it exists. To learn more about adding members, see <span style="color: #265095;">[inviting collaborators to a personal repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository)</span> in GitHub’s documentation.
+> **Private**: Many people prefer to keep their repository private until the release is ready. If the repository is private, only the members you add will be able to see that it exists. To learn more about adding members, see <span style="color: #265095;">[inviting collaborators to a personal repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository)</span> in GitHub’s documentation.
 
-> <u>**Public**</u>: To publish your edition with GitHub Pages, your visibility settings <u>**must**</u> be set to Public, which can be changed at any time. Refer to <span style="color: #265095;">Step 7</span> for instructions on updating visibility settings at a later time. 
+> **Public**: To publish your edition with GitHub Pages, your visibility settings **<u>must</u>** be set to Public, which can be changed at any time. Refer to <span style="color: #265095;">[Step 5](#step-5-publish-your-edition-site)</span> for instructions on updating visibility settings at a later time. 
 
 ![privacy](https://)
 
@@ -87,7 +86,142 @@ It will take a few moments to set up your new repository. After it’s created, 
 
 ![Figure 5: edition_test_km Repository Home Page](https://)
 
-### **<u>Step 4: Naming Your Project</u>**
+
+
+### **<u>Step 4: Configuring Your Edition Site</u>**
+The Recovery Hub template allows you to customize your edition by making changes (editing settings) in the <span style="color: #E44C31;">**_config.yml**</span> file. 
+
+The <span style="color: #E44C31;">**_config.yml**</span> file contains settings that affect your whole site. <u>Listed below are the settings you will need to edit, along with instructions on how to modify</u> them for your edition site. You will only need to do this once; rarely will you need to make any edits afterward. 
+
+#### **How do I Make Changes?**
+Before we dive into customizing your edition site, you will need to know how to make changes in GitHub files. 
+
+The following step-by-step instructions on making changes apply to **<u>all</u>** files in your GitHub repository.
+
+Locate and open the file that you need to edit in your repository’s <span style="color: #265095;">main branch</span>: <span style="color: #E44C31;">**_config.yml**</span>
+
+![Image 1]([assets/images/guide/metadata_elements.png](https://github.com/KezMill/edition_test_km/blob/e553e0f263a1dd18b2e72972a3d4f9948cf3562d/assets/images/guide/metadata_elements.png))
+![Image Above: This is what you should see when you open the _config.yml file](https://)
+
+Next, to make a change, switch to “edit” mode by clicking the pencil icon in the top-right corner of the file. You will not be able to make any changes if you are not in edit mode. 
+
+![image](https://)
+
+After you’ve made your changes, you can either “cancel” or “commit” to them. If you “cancel changes,” your edits will not be applied. Thus, unless you’ve changed your mind, you will choose “commit changes.”
+
+![image](https://)
+
+Before you can commit your changes, GitHub will present you with the option to keep the default or revise the commit message. This _**required**_ field serves as a brief, descriptive record of the changes made in a file. The Git commit message is a crucial part of version control, providing context and a history of code modifications for you and anyone else with access to the repository. Providing an “extended description” is _optional_. 
+
+![image](https://)
+
+Click “commit changes” to update your file.  
+
+REMOVE???Now that you know how to make and commit changes to your files, let’s walk through how to update your settings in the <span style="color: #E44C31;">**_config.yml**</span> file to update your URL and BaseRUL and how to customize your edition site!
+
+#### **Change URL and Base URL in _config.yml**
+
+
+
+
+
+#### **Customizing Edition: Updating Settings in _config.yml** 
+Locate and open the <span style="color: #E44C31;">**_config.yml**</span> file in the main branch of your edition’s repository.
+
+Read through the file to familiarize yourself. **The lines starting with a #** indicate our detailed explanations of each setting and its function. Text after a # does not appear on the published site; we recommend keeping these lines to prevent confusion if you need to make changes later. 
+
+You will add metadata to each element listed in the file, [see Fig. 7 below]:
+
+![Figure 7: Metadata Element, “Title”](https://)
+
+To edit and add your metadata, click the pencil icon in the top right corner and, from top to bottom, edit elements found under each section:
+
+**Site Information Metadata**
+- title
+- URL and base URL: both must match your published site (see <span style="color: #265095;">[above](#change-url-and-base-url-in-_config.yml)</span> for instructions). 
+- description
+
+**Navigation Metadata**
+- header pages
+
+**Banner Metadata**
+- banner image
+- banner alt text
+- banner size
+
+Additional Site Information Metadata 
+- editor
+- contact information
+    - name
+    - email
+    - institution
+    - GitHub username
+    - social media usernames (optional)
+
+ADD MORE INFO HERE
+
+Usually, you won’t need to change anything at the bottom of the file under “Other Settings.”
+
+#### **Home Page Configuration**
+To edit the home page of your site, you’ll need to edit the index.md and potentially make some changes in _config.yml, if you haven’t already. Instructions are provided in both files.
+
+#### **About Page Configuration**
+To edit the About page, make changes to the about.md file found in the main branch of your repository. If you don’t want to have an About page, delete that file instead.
+
+#### **Adding New Pages**
+You can add new pages to your site by creating new Markdown (.md) files. 
+
+> <u>Note</u>: A page is a file. On your published site, the file functions as a web page.
+
+To add a new page, click “Add file” in the top-right corner of your repository’s main branch, and click “Create a new file.” FINISH
+
+![image](https://)
+
+ADD MORE HERE
+
+>> <u>Note:</u> A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead. 
+
+### **<u>Step 5: Publish your Edition Site </u>**
+To publish your project edition site with GitHub pages, click “Settings” at the top of your edition’s repository home page. This will direct you to the setting’s “General” page [Fig. #].
+
+![image](https://)
+
+Before you continue, **your _repository must be public_ before it can be published** with GitHub Pages. 
+
+If your repository is already **public**, click <span style="color: #265095;">here</span> to jump ahead.  
+
+If your repository is currently **private**, follow the steps below to make it public.
+
+#### **Update Privacy Settings: Private to Public**
+On the setting’s general page, scroll down till you reach “Danger Zone” and click “Change Visibility,” changing to public.
+
+![image](https://)
+
+Box 1 will appear [term for this box] and click “I want to make this repository public.”
+
+Box 2 appear [term for this box] and click “I have read and understand these effects.”
+
+Box 3 will appear [term for box] and click “Make this repository public.” 
+
+![Box 1](https://)
+
+![Box 2](https://)
+
+![Box 3](https://)
+
+After your repository has been made public, the page will reload and take you back to the top of the setting’s general page. Stay on this page and follow the directions below on how to publish your repository.
+
+### **<u>Step 5: Publish Project Edition</u>**   
+
+ADD SECTION
+
+
+
+ADD SECTION
+
+### **<u>Additional Considerations</u>**
+
+#### **<u>Naming Your Project</u>**
 
 Your project will use three types of naming conventions: a long name, a short name, and an edition prefix.
 
@@ -103,7 +237,7 @@ Keep the prefix name basic and limited to five characters (numbers or letters) o
 
 ADD ADDITIONAL INFO
 
-### **<u>Step 5: Folder Structure & Organization</u>**
+#### **Folder Structure & Organization**
 
 There are several <span style="color: #63AEB6;">**main folders**</span> and <span style="color: #F7894E;">**subfolders**</span> you will primarily use. These folders will store various <span style="color: #E44C31;">**files**</span>, including but not limited to your documents, Markdown transcriptions, images, and more. 
 
@@ -141,134 +275,7 @@ In list form, using our color-coded **folder paths**, we explain what each folde
 
 Other folders beginning with an underscore (<span style="color: #63AEB6;">**_includes**</span>, <span style="color: #63AEB6;">**_layouts**</span>, etc.) contain files and code for the Jekyll site and theme.
 
-### **<u>Step 6: Configuring Your Edition Site</u>**
-The Recovery Hub template allows you to customize your edition by making changes (editing settings) in the <span style="color: #E44C31;">**_config.yml**</span> file. 
-
-The <span style="color: #E44C31;">**_config.yml**</span> file contains settings that affect your whole site. <u>Listed below are the settings you will need to edit, along with instructions on how to modify</u> them for your edition site. You will only need to do this once; rarely will you need to make any edits afterward. 
-
-#### **How do I Make Changes?**
-Before we dive into customizing your edition site, you will need to know how to make changes in GitHub files. 
-
-The following step-by-step instructions on making changes apply to <u>**all**</u> files in your GitHub repository. Since <span style="color: #265095;">Step 6</span> requires you to make changes in the <span style="color: #E44C31;">**_config.yml**</span> file to customize your edition, we felt it was only appropriate to use it in the steps below. 
-
-Locate and open the file that you need to edit in your repository’s <span style="color: #265095;">main branch</span>: <span style="color: #E44C31;">**_config.yml**</span>
-
-![Image 1]([assets/images/guide/metadata_elements.png](https://github.com/KezMill/edition_test_km/blob/e553e0f263a1dd18b2e72972a3d4f9948cf3562d/assets/images/guide/metadata_elements.png))
-![Image Above: This is what you should see when you open the _config.yml file](https://)
-
-Next, to make a change, switch to “edit” mode by clicking the pencil icon in the top-right corner of the file. You will not be able to make any changes if you are not in edit mode. 
-
-![image](https://)
-
-After you’ve made your changes, you can either “cancel” or “commit” to them. If you “cancel changes,” your edits will not be applied. Thus, unless you’ve changed your mind, you will choose “commit changes.”
-
-![image](https://)
-
-Before you can commit your changes, GitHub will present you with the option to keep the default or revise the commit message. This _**required**_ field serves as a brief, descriptive record of the changes made in a file. The Git commit message is a crucial part of version control, providing context and a history of code modifications for you and anyone else with access to the repository. Providing an “extended description” is _optional_. 
-
-![image](https://)
-
-Click “commit changes” to update your file.  
-
-Now that you know how to make and commit changes to your files, let’s walk through how to update your settings in the <span style="color: #E44C31;">**_config.yml**</span> file to customize your edition site!
-
-#### **Customizing Edition: Updating Settings in _config.yml** 
-Locate and open the <span style="color: #E44C31;">**_config.yml**</span> file in the main branch of your edition’s repository.
-
-Read through the file to familiarize yourself. **The lines starting with a #** indicate our detailed explanations of each setting and its function. Text after a # does not appear on the published site; we recommend keeping these lines to prevent confusion if you need to make changes later. 
-
-You will add metadata to each element listed in the file, [see Fig. 7 below]:
-
-![Figure 7: Metadata Element, “Title”](https://)
-
-To edit and add your metadata, click the pencil icon in the top right corner and, from top to bottom, edit elements found under each section:
-
-**Site Information Metadata**
-- title
-- URL and base URL: both must match your published site (see <span style="color: #265095;">Step 8</span> for instructions). 
-- description
-
-**Navigation Metadata**
-- header pages
-
-**Banner Metadata**
-- banner image
-- banner alt text
-- banner size
-
-Additional Site Information Metadata 
-- editor
-- contact information
-    - name
-    - email
-    - institution
-    - GitHub username
-    - social media usernames (optional)
-
-ADD MORE INFO HERE
-
-Usually, you won’t need to change anything at the bottom of the file under “Other Settings.”
-
-#### **Home Page Configuration**
-To edit the home page of your site, you’ll need to edit the index.md and potentially make some changes in _config.yml, if you haven’t already. Instructions are provided in both files.
-
-#### **About Page Configuration**
-To edit the About page, make changes to the about.md file found in the main branch of your repository. If you don’t want to have an About page, delete that file instead.
-
-#### **Adding New Pages**
-You can add new pages to your site by creating new Markdown (.md) files. 
-
-> Note: A page is a file. On your published site, the file functions as a web page.
-
-To add a new page, click “Add file” in the top-right corner of your repository’s main branch, and click “Create a new file.” FINISH
-
-![image](https://)
-
-ADD MORE HERE
-
->> <u>Note:</u> A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead. 
-
-### **<u>Step 7: Publishing your site with GitHub Pages</u>**
-To publish your project edition site, click “Settings” at the top of your edition’s repository home page. This will direct you to the setting’s “General” page [Fig. #].
-
-![image](https://)
-
-Before you continue, **your _repository must be public_ before it can be published** with GitHub Pages. 
-
-If your repository is already **public**, click <span style="color: #265095;">here</span> to jump ahead.  
-
-If your repository is currently **private**, follow the steps below to make it public.
-
-#### **Update Privacy Settings: Private to Public**
-On the setting’s general page, scroll down till you reach “Danger Zone” and click “Change Visibility,” changing to public.
-
-![image](https://)
-
-Box 1 will appear [term for this box] and click “I want to make this repository public.”
-
-Box 2 appear [term for this box] and click “I have read and understand these effects.”
-
-Box 3 will appear [term for box] and click “Make this repository public.” 
-
-![Box 1](https://)
-
-![Box 2](https://)
-
-![Box 3](https://)
-
-After your repository has been made public, the page will reload and take you back to the top of the setting’s general page. Stay on this page and follow the directions below on how to publish your repository.
-
-#### **Publish Project Edition**   
-
-ADD SECTION
-
-#### **Step 8: Change URL and Base URL**
-
-ADD SECTION
-
-### **<u>Additional Considerations</u>**
-
-#### **Transcription & Editing**
+#### **Transcribing & Editing**
 <br>For detailed documentation on transcribing sources, organizing files, and preparing your edition for online publication, see our Markdown Transcription tutorial. 
 
 If you plan to use TEI in your edition, you may also link directly to the TEI Guide.
