@@ -63,7 +63,7 @@ On the “Create a new repository” page, you will be asked to choose your pref
 
 ![repository name](https://)
 
-> Repository names **<u>cannot</u>** contain spaces, so we recommend using underscores in place of the spaces (e.g., edition_test_km). See <span style="color: #265095;">Naming Your Project</span> for more.
+> Repository names **<u>cannot</u>** contain spaces, so we recommend using underscores in place of the spaces (e.g., edition_test_km). See <span style="color: #265095;">[Naming Your Project](#naming-your-project)</span> for more.
 
     
 **Description**: Optional. You can always add or change later. 
@@ -82,7 +82,7 @@ Once you’ve entered your initial settings, click “create repository” at th
 
 It will take a few moments to set up your new repository. After it’s created, GitHub will automatically redirect you to your repository’s home page. 
 
->> <u>Note</u>: Your repository home page is what GitHub calls your repository’s “**main branch**.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
+>> =<u>Note</u>=: Your repository home page is what GitHub calls your repository’s “**main branch**.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
 
 ![Figure 5: edition_test_km Repository Home Page](https://)
 
@@ -98,24 +98,24 @@ Before we dive into customizing your edition site, you will need to know how to 
 
 The following step-by-step instructions on making changes apply to **<u>all</u>** files in your GitHub repository.
 
-> Locate and open the file that you need to edit in your repository’s <span style="color: #265095;">main branch</span>: <span style="color: #E44C31;">**_config.yml**</span>
+Locate and open the file that you need to edit in your repository’s main branch: <span style="color: #E44C31;">**_config.yml**</span>
 
-![Image 1 (https://github.com/KezMill/edition_test_km/blob/e553e0f263a1dd18b2e72972a3d4f9948cf3562d/assets/images/guide/metadata_elements.png)
-![Image Above: This is what you should see when you open the _config.yml file](https://)
+![Image 1] (https://github.com/KezMill/edition_test_km/blob/e553e0f263a1dd18b2e72972a3d4f9948cf3562d/assets/images/guide/metadata_elements.png)
 
-> Next, to make a change, switch to “edit” mode by clicking the pencil icon in the top-right corner of the file. You will not be able to make any changes if you are not in edit mode. 
 
-![image](https://)
-
-> After you’ve made your changes, you can either “cancel” or “commit” to them. If you “cancel changes,” your edits will not be applied. Thus, unless you’ve changed your mind, you will choose “commit changes.”
+Next, to make a change, switch to “edit” mode by clicking the pencil icon in the top-right corner of the file. You will not be able to make any changes if you are not in edit mode. 
 
 ![image](https://)
 
-> Before you can commit your changes, GitHub will present you with the option to keep the default or revise the commit message. This _**required**_ field serves as a brief, descriptive record of the changes made in a file. The Git commit message is a crucial part of version control, providing context and a history of code modifications for you and anyone else with access to the repository. Providing an “extended description” is _optional_. 
+After you’ve made your changes, you can either “cancel” or “commit” to them. If you “cancel changes,” your edits will not be applied. Thus, unless you’ve changed your mind, you will choose “commit changes.”
 
 ![image](https://)
 
-> Click “commit changes” to update your file.  
+Before you can commit your changes, GitHub will present you with the option to keep the default or revise the commit message. This _**required**_ field serves as a brief, descriptive record of the changes made in a file. The Git commit message is a crucial part of version control, providing context and a history of code modifications for you and anyone else with access to the repository. Providing an “extended description” is _optional_. 
+
+![image](https://)
+
+Click “commit changes” to update your file.  
 
 REMOVE???Now that you know how to make and commit changes to your files, let’s walk through how to update your settings in the <span style="color: #E44C31;">**_config.yml**</span> file to update your URL and BaseRUL and how to customize your edition site!
 
@@ -132,7 +132,7 @@ Read through the file to familiarize yourself. **The lines starting with a #** i
 
 You will add metadata to each element listed in the file, see Fig. 7 below:
 
-![Figure 7: Metadata Element, “Title”](https://)
+![metadata_elements](assets/images/guide/metadata_elements.png)
 
 To edit and add your metadata, click the pencil icon in the top right corner and, from top to bottom, edit elements found under each section:
 
