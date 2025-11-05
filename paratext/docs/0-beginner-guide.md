@@ -143,13 +143,11 @@ To edit and add your metadata, click the pencil icon in the top right corner and
 
 **Navigation Metadata**
 - header pages
-
 **Banner Metadata**
 - banner image
 - banner alt text
 - banner size
-
-Additional Site Information Metadata 
+**Additional Site Information Metadata** 
 - editor
 - contact information
     - name
@@ -171,7 +169,7 @@ To edit the About page, make changes to the about.md file found in the main bran
 #### **Adding New Pages**
 You can add new pages to your site by creating new Markdown (.md) files. 
 
-> <u>Note</u>: A page is a file. On your published site, the file functions as a web page.
+> <u>Note</u>: _A page is a file. On your published site, the file functions as a web page._
 
 To add a new page, click “Add file” in the top-right corner of your repository’s main branch, and click “Create a new file.” FINISH
 
@@ -179,7 +177,7 @@ To add a new page, click “Add file” in the top-right corner of your reposito
 
 ADD MORE HERE
 
->> <u>Note:</u> A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead. 
+>> <u>Note:</u> _A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead._ 
 
 ### **<u>Step 5: Publishing Your Edition Site </u>**
 To publish your project edition site with GitHub pages, click “Settings” at the top of your edition’s repository home page. This will direct you to the setting’s “General” page [Fig. #].
@@ -222,7 +220,6 @@ ADD SECTION
 ### **<u>Additional Considerations</u>**
 
 ##### **Naming Your Project**
-
 Your project will use three types of naming conventions: a long name, a short name, and an edition prefix.
 
 > **long name**: The project’s full edition title (e.g., Mary Johnston's The Wanderers: A Digital Edition).
@@ -238,7 +235,6 @@ Keep the prefix name basic and limited to five characters (numbers or letters) o
 ADD ADDITIONAL INFO
 
 ##### **Folder Structure & Organization**
-
 There are several <span style="color: #63AEB6;">**main folders**</span> and <span style="color: #F7894E;">**subfolders**</span> you will primarily use. These folders will store various <span style="color: #E44C31;">**files**</span>, including but not limited to your documents, Markdown transcriptions, images, and more. 
 
 In list form, using our color-coded **folder paths**, we explain what each folder contains, providing additional information as needed. 
@@ -272,14 +268,13 @@ In list form, using our color-coded **folder paths**, we explain what each folde
 
 <span style="color: #63AEB6;">**assets**</span>/<span style="color: #F7894E;">**images**</span>/<span style="color: #E44C31;">**tei**</span>: if you are using TEI and would like to include page images as part of your edition, add the image files to this folder.
 
-
 Other folders beginning with an underscore (<span style="color: #63AEB6;">**_includes**</span>, <span style="color: #63AEB6;">**_layouts**</span>, etc.) contain files and code for the Jekyll site and theme.
 
 ##### **Transcribing & Editing**
-<br>For detailed documentation on transcribing sources, organizing files, and preparing your edition for online publication, see our Markdown Transcription tutorial. 
+For detailed documentation on transcribing sources, organizing files, and preparing your edition for online publication, see our Markdown Transcription tutorial. 
 
 If you plan to use TEI in your edition, you may also link directly to the TEI Guide.
 
 ##### **Troubleshooting**
-<br>If you’re experiencing problems with your GitHub Pages site, the official GitHub Pages documentation has detailed troubleshooting information and is a good place to start.
+If you’re experiencing problems with your GitHub Pages site, the official GitHub Pages documentation has detailed troubleshooting information and is a good place to start.
 
