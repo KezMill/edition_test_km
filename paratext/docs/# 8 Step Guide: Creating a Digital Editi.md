@@ -146,7 +146,7 @@ The following step-by-step instructions on making changes apply to <u>**all**</u
 
 Locate and open the file that you need to edit in your repository’s <span style="color: #265095;">main branch</span>: <span style="color: #E44C31;">**_config.yml**</span>
 
-![Image 1](https://)
+![Image 1](https://assets/images/guide/metadata_elements.png)
 ![Image Above: This is what you should see when you open the _config.yml file](https://)
 
 Next, to make a change, switch to “edit” mode by clicking the pencil icon in the top-right corner of the file. You will not be able to make any changes if you are not in edit mode. 
