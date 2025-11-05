@@ -25,6 +25,8 @@ permalink: documentation/beginner
 
 If you do **not** have a GitHub account, follow the [instructions on GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) to create one.	
 
+**<u>`Note`</u>**
+
 ### **<u>Step 2: Create Template Edition</u>**
 
 To get started with your own edition, you’ll need to create a GitHub repository for your project using our Recovery Hub edition template. 
@@ -35,7 +37,7 @@ First, visit the Recovery Hub’s [repository home page](https://github.com/reco
 
 Click the “Use this template” button at the top-right of the repository homepage, then select “Create a new repository” to copy it to your GitHub account.
 
-<img src="assets/images/guide/use-this-template.png" alt="Figure 2: “Use this template”" height="30%" width="50%"  style="object-fit: center"><img width="468" height="45" alt="image" src="https://github.com/user-attachments/assets/d968beda-9ac0-4812-b5ed-6847acfc5014" />
+[figure 2]
 
 
 ![Figure 3: “Create a new repository”](https://)
