@@ -38,7 +38,7 @@ Click the “Use this template” [Fig. 2] button at the top-right of the reposi
 ![ Figure 2: “Use this template”](https://)   
 ![Figure 3: “Create a new repository”](https://)
 
-After clicking on “Create a new repository,” GitHub will immediately take you to a page to set initial key settings for your new repository. Below, in <span style="color: #265095;">Step 3</span>, we share our setting suggestions.  
+After clicking on “Create a new repository,” GitHub will immediately take you to a page to set initial key settings for your new repository. Below, in <span style="color: #265095;">below</span>, we share our setting suggestions.  
 
 
 ### **<u>Step 3: GitHub Repository Setting Recommendations</u>**
