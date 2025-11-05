@@ -1,7 +1,7 @@
 # 8 Step Guide: Creating a Digital Edition
 
 ### <u>**Table of Contents**</u>
-[Step 1: Create a GitHub account] (#create) <br>
+[Step 1: Create a GitHub account] (#step-1-create-a-github-account) <br>
 Step 2: Create Template Edition <br>
 Step 3: GitHub Repository: Setting Recommendations <br>
 Step 4: Naming Your Project <br>
