@@ -1,11 +1,11 @@
 ---
 layout: paginate
-title: Creating a Digital Edition
+title: Creating a Digital Edition 
 permalink: documentation/beginner
 ---
 
 
-# 8 Step Guide: Creating a Digital Edition
+# 5 Step Guide: Creating a Digital Edition
 
 ### **<u>Table of Contents</u>**
 [Step 1: Create a GitHub account](#step-1-create-a-github-account) <br>
