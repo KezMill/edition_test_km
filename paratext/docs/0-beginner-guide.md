@@ -221,7 +221,7 @@ ADD SECTION
 
 ### **<u>Additional Considerations</u>**
 
-#### **<u>Naming Your Project</u>**
+##### **Naming Your Project**
 
 Your project will use three types of naming conventions: a long name, a short name, and an edition prefix.
 
@@ -237,7 +237,7 @@ Keep the prefix name basic and limited to five characters (numbers or letters) o
 
 ADD ADDITIONAL INFO
 
-#### **Folder Structure & Organization**
+##### **Folder Structure & Organization**
 
 There are several <span style="color: #63AEB6;">**main folders**</span> and <span style="color: #F7894E;">**subfolders**</span> you will primarily use. These folders will store various <span style="color: #E44C31;">**files**</span>, including but not limited to your documents, Markdown transcriptions, images, and more. 
 
@@ -275,11 +275,11 @@ In list form, using our color-coded **folder paths**, we explain what each folde
 
 Other folders beginning with an underscore (<span style="color: #63AEB6;">**_includes**</span>, <span style="color: #63AEB6;">**_layouts**</span>, etc.) contain files and code for the Jekyll site and theme.
 
-#### **Transcribing & Editing**
+##### **Transcribing & Editing**
 <br>For detailed documentation on transcribing sources, organizing files, and preparing your edition for online publication, see our Markdown Transcription tutorial. 
 
 If you plan to use TEI in your edition, you may also link directly to the TEI Guide.
 
-#### **Troubleshooting**
+##### **Troubleshooting**
 <br>If you’re experiencing problems with your GitHub Pages site, the official GitHub Pages documentation has detailed troubleshooting information and is a good place to start.
 
