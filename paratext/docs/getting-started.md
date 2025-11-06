@@ -168,10 +168,10 @@ To edit and add your metadata, click the pencil icon in the top right corner and
 
 #### **Metadata**
 
-**Site Information Metadata**
-<u>Title</u>: This should match your project’s long name, the full title of your published edition.
-<u>URL and base URL</u>: Both must match your published site (see <span style="color: #265095;">[above](#change-url-and-base-url)</span> for instructions).
-<u>Description</u>: This is a paragraph-length description that appears in the site’s footer.
+**Site Information Metadata**<br>
+<u>Title</u>: This should match your project’s long name, the full title of your published edition.<br>
+<u>URL and base URL</u>: Both must match your published site (see <span style="color: #265095;">[above](#change-url-and-base-url)</span> for instructions).<br>
+<u>Description</u>: This is a paragraph-length description that appears in the site’s footer.<br>
 
 **Navigation Metadata**<br>
 <u>Header pages</u>: These are the links the appear in the navigation menu.
