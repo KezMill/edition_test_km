@@ -127,22 +127,22 @@ IMAGE
 
 After you switch to edit mode, scroll down to update your URLs, replacing "edition_template" in the base URL with **your edition's repository name** and replacing "recoveryhub" in the URL with **your GitHub username**. See formulas and examples below:
 
-**URL Formula**
+**URL Formula**:
 `https://` + `username` + `.` + `github.io` + `/` 
 
 IMAGE (highlight what will be removed)
 
-**Example**
+**Example**:
 `https://KezMill.github.io`
 
 Image (highlight updated)
 
-**Base URL Formula**
+**Base URL Formula**:
 `/edition respoitory name`
 
 IMAGE (highlight what will be removed)
 
-**EXAMPLE**
+**Example**:
 `/edition_test_km`
 
 IMAGE (highlight updated)
