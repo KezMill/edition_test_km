@@ -65,7 +65,7 @@ On the “Create a new repository” page, you will be asked to choose your pref
 
 ![repository name](https://)
 
-> Repository names **<u>cannot</u>** contain spaces, so we recommend using underscores in place of the spaces (e.g., edition_test_km). See <span style="color: #265095;">[Naming Your Project](#naming-your-project)</span> for more.
+>> **`Note`**Repository names **<u>cannot</u>** contain spaces, so we recommend using underscores in place of the spaces (e.g., edition_test_km). See <span style="color: #265095;">[Naming Your Project](#naming-your-project)</span> for more.
 
     
 **Description**: Optional. You can always add or change later. 
@@ -121,15 +121,25 @@ Now that you know how to make and commit changes to your files, let’s walk thr
 #### **Change URL and Base URL**
 To change the URL and base URL for your edition, locate and open the <span style="color: #E44C31;">**_config.yml**</span> file in the main branch of your edition’s repository.
 
-The URL metadata can be found on line #. 
+The base URL metadata element can be found on line 40; the URL metadata element can be found on line 41. 
 
-We provide the URL formula below, followed by an example. 
+IMAGE
 
-FORMULA
+After you switch to edit mode, scroll down to update your URLs, replacing **edition_template** in the base URL with your edition's repository name and replacing **recoveryhub** in the URL with your GitHub username. See example below:
 
+EXAMPLE/IMAGE
+
+We've also provided the URL formulas, followed by an example below. 
+URL FORMULA
+`https://` + `username` + `.` + `github.io` + `/` 
 EXAMPLE
+`https://KezMill.github.io`
+BASE URL FORMULA
+`/edition respoitory name`
+EXAMPLE
+`/edition_test_km`
 
-GitHub will also provide your URL and base URL after you publish your site, see <span style="color: #265095;">[Step 5](#publishing-your-edition-site-with-github-pages)</span> for more information on publishing your site with GitHub pages. 
+You can either update your URLs before or after you publish your site. GitHub provides both on [name of page] once your site has become live. See <span style="color: #265095;">[Step 5](#publishing-your-edition-site-with-github-pages)</span> for more information on publishing your site with GitHub pages. 
 
 
 #### **Customizing Edition: Updating Settings in _config.yml** 
@@ -147,26 +157,21 @@ To edit and add your metadata, click the pencil icon in the top right corner and
 #### **Metadata**
 
 **Site Information Metadata**
-> <u>Title</u>: This should match your project’s long name, the full title of your published edition.\
-> <u>URL and base URL</u>: Both must match your published site (see <span style="color: #265095;">[above](#change-url-and-base-url)</span> for instructions).
-> <u>Description</u>: This is a paragraph-length description that appears in the site’s footer. 
+<u>Title</u>: This should match your project’s long name, the full title of your published edition.
+<u>URL and base URL</u>: Both must match your published site (see <span style="color: #265095;">[above](#change-url-and-base-url)</span> for instructions).
+<u>Description</u>: This is a paragraph-length description that appears in the site’s footer.
 
 **Navigation Metadata**
-> <u>Header pages</u>: These are the links in the navigation menu.
+<u>Header pages</u>: These are the links the appear in the navigation menu.
 
 **Banner Metadata**
-> <u>Banner image</u>: The image used for your site's banner.
-> <u>Banner alt text</u>: The short descriptive text that provides an alternative to visual content.
-> <u>Banner size</u>: You can customize your banner image size here. 
+<u>Banner image</u>: The image used for your site's banner.
+<u>Banner alt text</u>: The short descriptive text that provides an accessible alternative to the visual content
+<Banner size</u>: Where you customize the size of your banner image.
 
-**Additional Site Information Metadata** 
-> <u>Editor</u>: A defult so you don't have to add metadata for every item as most or all your pages will have the same editor(s).
-> Contact information: The following contact information that appears in the site's footer.
->> name
->> email
->> institution
->> GitHub username
->> social media usernames (optional)
+**Contact Information Metadata**
+<u>Editor</u>: This element is a defult for all pages that lists the edition's editors as most or all pages will have the same editor(s)
+<u>Contact information</u>: The edition's contact information that appears in the site's footer (name, email, institution, GitHub username, social media usernames,etc.)
 
 There is also the ability to update metadata in the list of categories/genres up for the texts in your edition.
 
