@@ -7,25 +7,25 @@ permalink: documentation/beginner
 
 # 5-Step Guide to Starting your Edition
 
-### <span style="color: #69c3c3;">**<u>Table of Contents</u>**</span>
+### <span style="color: #3c9696;">**<u>Table of Contents</u>**</span>
 [Step 1: Create a GitHub account](#step-1-create-a-github-account) <br>
-[Step 2: Create Template Edition](#step-2-create-template-edition) <br>
+[Step 2: Create Template Edition](#step-2-create-a-template-edition) <br>
 [Step 3: GitHub Repository Setting Recommendations](#step-3-github-repository-setting-recommendations) <br>
 [Step 4: Configuring Your Edition Site](#step-4-configuring-your-edition-site) <br>
 [Step 5: Publishing Your Edition Site](#step-5-publishing-your-edition-site) <br>
 
-**<span style="color: #69c3c3;">**<u>Additional Considerations</u>**</span>**<br>
+<span style="color: #3c9696;">**<u>Additional Considerations</u>**</span><br>
 [Naming Your Project](#naming-your-project) <br>
 [Folder Structure & Organization](#folder-structure-and-organization) <br>
 [Transcribing & Editing](#transcribing-and-editing) <br>
 [Troubleshooting](#troubleshooting) <br>
 
-### **<u>Step 1: Create a GitHub account</u>**
+### <span style="color: #3c9696;">**<u>Step 1: Create a GitHub Account</u>**</span>
 [GitHub](https://github.com/) is a free, open-access resource that stores files that can run a website; it can also host that website thanks to a feature called [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages). 
 
 If you do **not** have a GitHub account, follow the [instructions on GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) to create one.	
 
-### **<u>Step 2: Create Template Edition</u>**
+### <span style="color: #3c9696;">**<u>Step 2: Create a Template Edition</u>**</span>
 
 To get started with your own edition, you’ll need to create a GitHub repository for your project using our Recovery Hub edition template. 
 
@@ -43,7 +43,7 @@ Click the “Use this template” button at the top-right of the repository home
 After clicking on “Create a new repository,” GitHub will immediately take you to a page to set initial settings for your new repository. Below, in <span style="color: #265095;">[Step 3](#step-3-github-repository-setting-recommendations)</span>, we share our setting suggestions.  
 
 
-### **<u>Step 3: GitHub Repository Setting Recommendations</u>**
+### <span style="color: #3c9696;">**<u>Step 3: GitHub Repository Setting Recommendations</u>**</span>
 
 On the “Create a new repository” page, you will be asked to choose your preferred repository settings. Below, we list the setting fields GitHub offers when creating a new repository along with our recommendations for each:
 
@@ -90,7 +90,7 @@ It will take a few moments to set up your new repository. After it’s created, 
 
 
 
-### **<u>Step 4: Configuring Your Edition Site</u>**
+### <span style="color: #3c9696;">**<u>Step 4: Configuring Your Edition Site</u>**</span>
 The Recovery Hub template allows you to customize your edition by making changes (editing settings) in the <span style="color: #E44C31;">**_config.yml**</span> file. 
 
 The <span style="color: #E44C31;">**_config.yml**</span> file contains settings that affect your whole site. <u>Listed below are the settings you will need to edit, along with instructions on how to modify</u> them for your edition site. You will only need to do this once; rarely will you need to make any edits afterward. 
@@ -233,7 +233,7 @@ ADD MORE HERE
 
 >> **`Note`**: A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead. 
 
-### **<u>Step 5: Publishing Your Edition Site </u>**
+### <span style="color: #3c9696;">**<u>Step 5: Publishing Your Edition Site</u>**</span>
 To publish your project edition site with GitHub pages, click “Settings” at the top of your edition’s repository home page. This will direct you to the setting’s “General” page, see Fig. #.
 
 ![image](https://)
