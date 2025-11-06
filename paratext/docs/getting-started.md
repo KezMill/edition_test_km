@@ -29,7 +29,7 @@ If you do **not** have a GitHub account, follow the [instructions on GitHub](htt
 
 To get started with your own edition, you’ll need to create a GitHub repository for your project using our Recovery Hub edition template. 
 
-First, visit the Recovery Hub’s <span style="color: #3c9696;">[repository home page](https://github.com/recoveryhub/edition_template)</span>.
+First, visit the Recovery Hub’s [repository home page](https://github.com/recoveryhub/edition_template).
 
 ![Figure 1: Recovery Hub’s repository home page](https://)
 
@@ -128,7 +128,7 @@ IMAGE
 After you switch to edit mode, scroll down to update your URLs, replacing "edition_template" in the base URL with **your edition's repository name** and replacing "recoveryhub" in the URL with **your GitHub username**. See formulas and examples below:
 
 **URL Formula**:
-`https://` + `username` + `.` + `github.io` + `/` 
+`https://` + `GitHub username` + `.` + `github.io` + `/` 
 
 IMAGE (highlight what will be removed)
 
