@@ -225,12 +225,6 @@ You can add new pages to your site by creating new Markdown (.md) files.
 
 For step-by-step instructions on how to add a new page, refer to our guide under <span style="color: #3c9696;">[Additional Consiterations](#how-to-add-a-new-page)</span>
 
-FINISH
-
-![image](https://)
-
-ADD MORE HERE
-
 >> **`Note`**: A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead.
 
 ### <span style="color: #0c4e6d;">**<u>Step 5: Publishing Your Edition Site</u>**</span>
