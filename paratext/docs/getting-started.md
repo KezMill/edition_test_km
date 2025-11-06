@@ -63,36 +63,36 @@ On the “Create a new repository” page, you will be asked to choose your pref
 
 **Start with a template**: recoveryhub/edition_template
 
-<p align="center">
+<p align="left">
   <img 
-    width="500"
+    width="700"
     height="400"
     src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0005.png">
 </p> 
 
 **Include all branches**: Off
 
-<p align="center">
+<p align="left">
   <img 
-    width="500"
+    width="700"
     height="400"
     src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0006.png">
 </p> 
 
 **Owner**: Keep your personal account selected unless your edition belongs to a specific GitHub organization.
 
-<p align="center">
+<p align="left">
   <img 
-    width="500"
+    width="700"
     height="400"
     src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0007.png">
 </p> 
 
 **Repository Name**: Pick a name that is short but memorable (e.g., edition_test_km)
 
-<p align="center">
+<p align="left">
   <img 
-    width="500"
+    width="700"
     height="400"
     src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0008.png">
 </p> 
@@ -102,9 +102,9 @@ On the “Create a new repository” page, you will be asked to choose your pref
     
 **Description**: Optional. You can always add or change later. 
 
-<p align="center">
+<p align="left">
   <img 
-    width="500"
+    width="700"
     height="400"
     src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0009.png">
 </p> 
@@ -115,10 +115,10 @@ On the “Create a new repository” page, you will be asked to choose your pref
 
 > **Public**: To publish your edition with GitHub Pages, your visibility settings **<u>must</u>** be set to Public, which can be changed at any time. Refer to <span style="color: #3c9696;">[Step 5](#step-5-publishing-your-edition-site)</span> for instructions on updating visibility settings at a later time. 
 
-<p align="center">
+<p align="left">
   <img 
-    width="500"
-    height="400"
+    width="700"
+    height="500"
     src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0010.png">
 </p> 
 
