@@ -7,29 +7,29 @@ permalink: documentation/beginner
 
 # 5-Step Guide to Starting your Edition
 
-### <span style="color: #3c9696;">**<u>Table of Contents</u>**</span>
+### <span style="color: #0c4e6d;">**<u>Table of Contents</u>**</span>
 [Step 1: Create a GitHub account](#step-1-create-a-github-account) <br>
 [Step 2: Create Template Edition](#step-2-create-a-template-edition) <br>
 [Step 3: GitHub Repository Setting Recommendations](#step-3-github-repository-setting-recommendations) <br>
 [Step 4: Configuring Your Edition Site](#step-4-configuring-your-edition-site) <br>
 [Step 5: Publishing Your Edition Site](#step-5-publishing-your-edition-site) <br>
 
-<span style="color: #3c9696;">**<u>Additional Considerations</u>**</span><br>
+<span style="color: #0c4e6d;">**<u>Additional Considerations</u>**</span><br>
 [Naming Your Project](#naming-your-project) <br>
 [Folder Structure & Organization](#folder-structure-and-organization) <br>
 [Transcribing & Editing](#transcribing-and-editing) <br>
 [Troubleshooting](#troubleshooting) <br>
 
-### <span style="color: #3c9696;">**<u>Step 1: Create a GitHub Account</u>**</span>
-[GitHub](https://github.com/) is a free, open-access resource that stores files that can run a website; it can also host that website thanks to a feature called [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages). 
+### <span style="color: #0c4e6d;">**<u>Step 1: Create a GitHub Account</u>**</span>
+<span style="color: #3c9696;">[GitHub](https://github.com/)</span> is a free, open-access resource that stores files that can run a website; it can also host that website thanks to a feature called <span style="color: #3c9696;">[GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)</span>. 
 
 If you do **not** have a GitHub account, follow the [instructions on GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) to create one.	
 
-### <span style="color: #3c9696;">**<u>Step 2: Create a Template Edition</u>**</span>
+### <span style="color: #0c4e6d;">**<u>Step 2: Create a Template Edition</u>**</span>
 
 To get started with your own edition, you’ll need to create a GitHub repository for your project using our Recovery Hub edition template. 
 
-First, visit the Recovery Hub’s [repository home page](https://github.com/recoveryhub/edition_template).
+First, visit the Recovery Hub’s <span style="color: #3c9696;">[repository home page](https://github.com/recoveryhub/edition_template)</span>.
 
 ![Figure 1: Recovery Hub’s repository home page](https://)
 
@@ -40,10 +40,10 @@ Click the “Use this template” button at the top-right of the repository home
 
 ![Figure 3: “Create a new repository”](https://)
 
-After clicking on “Create a new repository,” GitHub will immediately take you to a page to set initial settings for your new repository. Below, in <span style="color: #265095;">[Step 3](#step-3-github-repository-setting-recommendations)</span>, we share our setting suggestions.  
+After clicking on “Create a new repository,” GitHub will immediately take you to a page to set initial settings for your new repository. Below, in <span style="color: #3c9696;">[Step 3](#step-3-github-repository-setting-recommendations)</span>, we share our setting suggestions.  
 
 
-### <span style="color: #3c9696;">**<u>Step 3: GitHub Repository Setting Recommendations</u>**</span>
+### <span style="color: #0c4e6d;">**<u>Step 3: GitHub Repository Setting Recommendations</u>**</span>
 
 On the “Create a new repository” page, you will be asked to choose your preferred repository settings. Below, we list the setting fields GitHub offers when creating a new repository along with our recommendations for each:
 
@@ -65,7 +65,7 @@ On the “Create a new repository” page, you will be asked to choose your pref
 
 ![repository name](https://)
 
->> **`Note`**Repository names **<u>cannot</u>** contain spaces, so we recommend using underscores in place of the spaces (e.g., edition_test_km). See <span style="color: #265095;">[Naming Your Project](#naming-your-project)</span> for more.
+>> **`Note`**Repository names **<u>cannot</u>** contain spaces, so we recommend using underscores in place of the spaces (e.g., edition_test_km). See <span style="color: #3c9696;">[Naming Your Project](#naming-your-project)</span> for more.
 
     
 **Description**: Optional. You can always add or change later. 
@@ -76,7 +76,7 @@ On the “Create a new repository” page, you will be asked to choose your pref
 
 > **Private**: Many people prefer to keep their repository private until the release is ready. If the repository is private, only the members you add will be able to see that it exists. To learn more about adding members, see <span style="color: #265095;">[inviting collaborators to a personal repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository)</span> in GitHub’s documentation.
 
-> **Public**: To publish your edition with GitHub Pages, your visibility settings **<u>must</u>** be set to Public, which can be changed at any time. Refer to <span style="color: #265095;">[Step 5](#step-5-publishing-your-edition-site)</span> for instructions on updating visibility settings at a later time. 
+> **Public**: To publish your edition with GitHub Pages, your visibility settings **<u>must</u>** be set to Public, which can be changed at any time. Refer to <span style="color: #3c9696;">[Step 5](#step-5-publishing-your-edition-site)</span> for instructions on updating visibility settings at a later time. 
 
 ![privacy](https://)
 
@@ -90,7 +90,7 @@ It will take a few moments to set up your new repository. After it’s created, 
 
 
 
-### <span style="color: #3c9696;">**<u>Step 4: Configuring Your Edition Site</u>**</span>
+### <span style="color: #0c4e6d;">**<u>Step 4: Configuring Your Edition Site</u>**</span>
 The Recovery Hub template allows you to customize your edition by making changes (editing settings) in the <span style="color: #E44C31;">**_config.yml**</span> file. 
 
 The <span style="color: #E44C31;">**_config.yml**</span> file contains settings that affect your whole site. <u>Listed below are the settings you will need to edit, along with instructions on how to modify</u> them for your edition site. You will only need to do this once; rarely will you need to make any edits afterward. 
@@ -147,11 +147,11 @@ IMAGE (highlight what will be removed)
 
 IMAGE (highlight updated)
 
-> `**Note**`: 
+>> **`Note`**:
 
 
 
-You can either update your URLs before or after you publish your site. GitHub provides both on [name of page] once your site has become live. See <span style="color: #265095;">[Step 5](#publishing-your-edition-site-with-github-pages)</span> for more information on publishing your site with GitHub pages. 
+You can either update your URLs before or after you publish your site. GitHub provides both on [name of page] once your site has become live. See <span style="color: #3c9696;">[Step 5](#publishing-your-edition-site-with-github-pages)</span> for more information on publishing your site with GitHub pages. 
 
 
 #### **Customizing Edition: Updating Settings in _config.yml** 
@@ -169,21 +169,21 @@ To edit and add your metadata, click the pencil icon in the top right corner and
 #### **Metadata**
 
 **Site Information Metadata**<br>
-<u>Title</u>: This should match your project’s long name, the full title of your published edition.<br>
-<u>URL and base URL</u>: Both must match your published site (see <span style="color: #265095;">[above](#change-url-and-base-url)</span> for instructions).<br>
-<u>Description</u>: This is a paragraph-length description that appears in the site’s footer.<br>
+> <u>Title</u>: This should match your project’s long name, the full title of your published edition.<br>
+> <u>URL and base URL</u>: Both must match your published site (see <span style="color: #3c9696;">[above](#change-url-and-base-url)</span> for instructions).<br>
+> <u>Description</u>: This is a paragraph-length description that appears in the site’s footer.<br>
 
 **Navigation Metadata**<br>
-<u>Header pages</u>: These are the links the appear in the navigation menu.
+> <u>Header pages</u>: These are the links the appear in the navigation menu.
 
 **Banner Metadata**<br>
-<u>Banner image</u>: The image used for your site's banner.<br>
-<u>Banner alt text</u>: The short descriptive text that provides an accessible alternative to the visual content,<br>
-<u>Banner size</u>: Where you customize the size of your banner image.<br>
+> <u>Banner image</u>: The image used for your site's banner.<br>
+> <u>Banner alt text</u>: The short descriptive text that provides an accessible alternative to the visual content,<br>
+> <u>Banner size</u>: Where you customize the size of your banner image.<br>
 
 **Contact Information Metadata**<br>
-<u>Editor</u>: This element is a defult for all pages that lists the edition's editors as most or all pages will have the same editor(s).<br>
-<u>Contact information</u>: The edition's contact information that appears in the site's footer (name, email, institution, GitHub username, social media usernames,etc.)
+> <u>Editor</u>: This element is a defult for all pages that lists the edition's editors as most or all pages will have the same editor(s).<br>
+> <u>Contact information</u>: The edition's contact information that appears in the site's footer (name, email, institution, GitHub username, social media usernames,etc.)
 
 There is also the ability to update metadata in the list of categories/genres up for the texts in your edition.
 
@@ -223,7 +223,7 @@ You can add new pages to your site by creating new Markdown (.md) files.
 
 > **`Note`**: A page is a file. On your published site, the file functions as a web page.
 
-For step-by-step instructions on how to add a new page, refer to our guide under <span style="color: #265095;">[Additional Consiterations](#how-to-add-a-new-page)</span>
+For step-by-step instructions on how to add a new page, refer to our guide under <span style="color: #3c9696;">[Additional Consiterations](#how-to-add-a-new-page)</span>
 
 FINISH
 
@@ -231,16 +231,16 @@ FINISH
 
 ADD MORE HERE
 
->> **`Note`**: A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead. 
+>> **`Note`**: A new page with additional information about your project can be stored in the main branch of your repository alongside <span style="color: #E44C31;">**index.md**</span> and <span style="color: #E44C31;">**about.md**</span>. If it’s a page about the texts in the edition, you may store it in your <span style="color: #63AEB6;">**paratext**</span> folder instead.
 
-### <span style="color: #3c9696;">**<u>Step 5: Publishing Your Edition Site</u>**</span>
+### <span style="color: #0c4e6d;">**<u>Step 5: Publishing Your Edition Site</u>**</span>
 To publish your project edition site with GitHub pages, click “Settings” at the top of your edition’s repository home page. This will direct you to the setting’s “General” page, see Fig. #.
 
 ![image](https://)
 
 Before you continue, **your _repository must be public_ before it can be published** with GitHub Pages. 
 
-If your repository is already **public**, click <span style="color: #265095;">[here](#publishing-your-edition-site-with-github-pages)</span> to jump ahead.  
+If your repository is already **public**, click <span style="color: #3c9696;">[here](#publishing-your-edition-site-with-github-pages)</span> to jump ahead.  
 
 If your repository is currently **private**, follow the steps below to make it public.
 
@@ -295,7 +295,7 @@ Keep the prefix name basic and limited to five characters (numbers or letters) o
 `testkm_00012.xml`<br>
 `testkm_logo_00003.png`<br>      
 
->> **`Note`**: We recommend a five digit length for padded number as it allows you to have 99,999 files correctly ordered when sorted by name. It does not matter what number’s you choose for each file name, they just must all be unique. See our <span style="color: #265095;">[Transcription Guide](https://recoveryhub.github.io/edition_template/documentation/transcription)</span> for additional file naming formulas. 
+>> **`Note`**: We recommend a five digit length for padded number as it allows you to have 99,999 files correctly ordered when sorted by name. It does not matter what number’s you choose for each file name, they just must all be unique. See our <span style="color: #3c9696;">[Transcription Guide](https://recoveryhub.github.io/edition_template/documentation/transcription)</span> for additional file naming formulas. 
 
 #### **Folder Structure and Organization**
 There are several <span style="color: #63AEB6;">**main folders**</span> and <span style="color: #F7894E;">**subfolders**</span> you will primarily use. These folders will store various <span style="color: #E44C31;">**files**</span>, including but not limited to your documents, Markdown transcriptions, images, and more. 
@@ -327,7 +327,7 @@ In list form, using our color-coded **folder paths**, we explain what each folde
 <span style="color: #63AEB6;">**assets**</span>/<span style="color: #F7894E;">**images**</span>: home page banner image, site footer logos or marks, TEI-based page images
  
 >> **`Note`**: To replace the home page banner image with a custom banner image, follow the instructions in
-<span style="color: #265095;">[Step 4](#step-4-configuring-your-edition-site)</span>.
+<span style="color: #3c9696;">[Step 4](#step-4-configuring-your-edition-site)</span>.
 
 <span style="color: #63AEB6;">**assets**</span>/<span style="color: #F7894E;">**images**</span>/<span style="color: #E44C31;">**tei**</span>: if you are using TEI and would like to include page images as part of your edition, add the image files to this folder.
 
@@ -342,15 +342,15 @@ You can also upload a file from your computer by clicking "Upload files" and sel
 
 IMAGE
 
-> **`Note`**: If you'd like to add a file to a main folder or subfolder, you can do so by locating and opening that folder. If you need to create a new folder for that file, click <span style="color: #265095;">[here](#how-to-create-a-new-folder)</span>. for step-by-step instructions.
+> **`Note`**: If you'd like to add a file to a main folder or subfolder, you can do so by locating and opening that folder. If you need to create a new folder for that file, click<span style="color: #3c9696;">[here](#how-to-create-a-new-folder)</span>. for step-by-step instructions.
 
 If you are **manually** adding a new file, make sure to title that file and save using the correct file extension, e.g., Markdown (.md) or TEI (.xml). 
 
-Remember to add a period ( . ) before the file extension to ensure it saves correctly. See <span style="color: #265095;">[Naming Your Project](#file-naming-convention)</span>.
+Remember to add a period ( . ) before the file extension to ensure it saves correctly. See <span style="color: #3c9696;">[Naming Your Project](#file-naming-convention)</span>.
 
 
 #### **How to Create a New Folder**
-To create a new folder, you first must create or upload the file you'd like to store in the new folder, see <span style="color: #265095;">[above](#how-to-add-a-new-page)</span> on how to create or upload new files.
+To create a new folder, you first must create or upload the file you'd like to store in the new folder, see <span style="color: #3c9696;">[above](#how-to-add-a-new-page)</span> on how to create or upload new files.
 
 After your file has been uploaded either to the main branch or to the desired nested folder, click on the file to open it. 
 
@@ -367,10 +367,10 @@ IMAGE
 Click "Committ Changes" to save.
 
 #### **Transcribing and Editing**
-For detailed documentation on transcribing sources, organizing files, and preparing your edition for online publication, see our <span style="color: #265095;">[Markdown Guide](https://recoveryhub.github.io/edition_template/documentation/markdown)</span> or visit the Markdown to review thier super helpful <span style="color: #265095;">[cheat sheet](https://www.markdownguide.org/cheat-sheet/)</span>. 
+For detailed documentation on transcribing sources, organizing files, and preparing your edition for online publication, see our <span style="color: #3c9696;">[Markdown Guide](https://recoveryhub.github.io/edition_template/documentation/markdown)</span> or visit the Markdown to review thier super helpful <span style="color: #3c9696;">[cheat sheet](https://www.markdownguide.org/cheat-sheet/)</span>. 
 
-If you plan to use TEI in your edition, you may also link directly to the Recovery Hub's <span style="color: #265095;">[TEI Guide](https://recoveryhub.github.io/edition_template/documentation/tei)</span>.
+If you plan to use TEI in your edition, you may also link directly to the Recovery Hub's <span style="color: #3c9696;">[TEI Guide](https://recoveryhub.github.io/edition_template/documentation/tei)</span>.
 
 #### **Troubleshooting**
-If you’re experiencing problems with your GitHub Pages site, the official [GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-jekyll-build-errors-for-github-pages-sites) has detailed troubleshooting information and is a good place to start.
+If you’re experiencing problems with your GitHub Pages site, the official <span style="color: #3c9696;">[GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-jekyll-build-errors-for-github-pages-sites)</span> has detailed troubleshooting information and is a good place to start.
 
