@@ -125,19 +125,35 @@ The base URL metadata element can be found on line 40; the URL metadata element 
 
 IMAGE
 
-After you switch to edit mode, scroll down to update your URLs, replacing **edition_template** in the base URL with your edition's repository name and replacing **recoveryhub** in the URL with your GitHub username. See example below:
+After you switch to edit mode, scroll down to update your URLs, replacing "edition_template" in the base URL with **your edition's repository name** and replacing "recoveryhub" in the URL with **your GitHub username**. See formulas and examples below:
 
-EXAMPLE/IMAGE
+URL Formula
 
-We've also provided the URL formulas, followed by an example below. 
-URL FORMULA
 `https://` + `username` + `.` + `github.io` + `/` 
-EXAMPLE
+
+IMAGE (highlight what will be removed)
+
+Example
+
 `https://KezMill.github.io`
-BASE URL FORMULA
+
+Image (highlight updated)
+
+Base URL Formula
+
 `/edition respoitory name`
+
+IMAGE (highlight what will be removed)
+
 EXAMPLE
+
 `/edition_test_km`
+
+IMAGE (highlight updated)
+
+> `**Note**`: 
+
+
 
 You can either update your URLs before or after you publish your site. GitHub provides both on [name of page] once your site has become live. See <span style="color: #265095;">[Step 5](#publishing-your-edition-site-with-github-pages)</span> for more information on publishing your site with GitHub pages. 
 
