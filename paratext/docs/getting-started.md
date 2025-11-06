@@ -376,5 +376,5 @@ For detailed documentation on transcribing sources, organizing files, and prepar
 If you plan to use TEI in your edition, you may also link directly to the Recovery Hub's <span style="color: #265095;">[TEI Guide](https://recoveryhub.github.io/edition_template/documentation/tei)</span>.
 
 #### **Troubleshooting**
-If you’re experiencing problems with your GitHub Pages site, the official GitHub Pages documentation has detailed troubleshooting information and is a good place to start.
+If you’re experiencing problems with your GitHub Pages site, the official [GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-jekyll-build-errors-for-github-pages-sites) has detailed troubleshooting information and is a good place to start.
 
