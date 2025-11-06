@@ -14,7 +14,7 @@ permalink: documentation/beginner
 [Step 4: Configuring Your Edition Site](#step-4-configuring-your-edition-site) <br>
 [Step 5: Publishing Your Edition Site](#step-5-publishing-your-edition-site) <br>
 
-**<u>Additional Considerations</u><br>
+**<u>Additional Considerations</u>**<br>
 [Naming Your Project](#naming-your-project) <br>
 [Folder Structure & Organization](#folder-structure-and-organization) <br>
 [Transcribing & Editing](#transcribing-and-editing) <br>
