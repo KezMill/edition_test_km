@@ -7,14 +7,14 @@ permalink: documentation/beginner
 
 # 5-Step Guide to Starting your Edition
 
-### **<u>Table of Contents</u>**
+### <span style="color: #69c3c3;">**<u>Table of Contents</u>**</span>
 [Step 1: Create a GitHub account](#step-1-create-a-github-account) <br>
 [Step 2: Create Template Edition](#step-2-create-template-edition) <br>
 [Step 3: GitHub Repository Setting Recommendations](#step-3-github-repository-setting-recommendations) <br>
 [Step 4: Configuring Your Edition Site](#step-4-configuring-your-edition-site) <br>
 [Step 5: Publishing Your Edition Site](#step-5-publishing-your-edition-site) <br>
 
-**<u>Additional Considerations</u>**<br>
+**<span style="color: #69c3c3;">**<u>Additional Considerations</u>**</span>**<br>
 [Naming Your Project](#naming-your-project) <br>
 [Folder Structure & Organization](#folder-structure-and-organization) <br>
 [Transcribing & Editing](#transcribing-and-editing) <br>
@@ -173,16 +173,16 @@ To edit and add your metadata, click the pencil icon in the top right corner and
 <u>URL and base URL</u>: Both must match your published site (see <span style="color: #265095;">[above](#change-url-and-base-url)</span> for instructions).
 <u>Description</u>: This is a paragraph-length description that appears in the site’s footer.
 
-**Navigation Metadata**
+**Navigation Metadata**<br>
 <u>Header pages</u>: These are the links the appear in the navigation menu.
 
-**Banner Metadata**
-<u>Banner image</u>: The image used for your site's banner.
-<u>Banner alt text</u>: The short descriptive text that provides an accessible alternative to the visual content
-<Banner size</u>: Where you customize the size of your banner image.
+**Banner Metadata**<br>
+<u>Banner image</u>: The image used for your site's banner.<br>
+<u>Banner alt text</u>: The short descriptive text that provides an accessible alternative to the visual content,<br>
+<u>Banner size</u>: Where you customize the size of your banner image.<br>
 
-**Contact Information Metadata**
-<u>Editor</u>: This element is a defult for all pages that lists the edition's editors as most or all pages will have the same editor(s)
+**Contact Information Metadata**<br>
+<u>Editor</u>: This element is a defult for all pages that lists the edition's editors as most or all pages will have the same editor(s).<br>
 <u>Contact information</u>: The edition's contact information that appears in the site's footer (name, email, institution, GitHub username, social media usernames,etc.)
 
 There is also the ability to update metadata in the list of categories/genres up for the texts in your edition.
