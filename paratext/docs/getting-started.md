@@ -33,16 +33,8 @@ First, visit the Recovery Hub’s [repository home page](https://github.com/reco
 
 <p align="center">
   <img 
-    width="400"
-    height="550"
-    src="assets/images/guide/0001.png">
-</p> 
-
-<p align="center">
-  <img 
     width="500"
-    height="400"
-    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+    height="400"   src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
 </p> 
 
 Click the “Use this template” button at the top-right of the repository homepage, then select “Create a new repository” to copy it to your GitHub account.
@@ -51,7 +43,7 @@ Click the “Use this template” button at the top-right of the repository home
   <img 
     width="500"
     height="400"
-    src="https://github.com/KezMill/edition_test_km/blob/fc221bbaafb2ab941d355eec93062f624d9b630a/assets/images/guide/0002.png">
+src="https://github.com/KezMill/edition_test_km/blob/fc221bbaafb2ab941d355eec93062f624d9b630a/assets/images/guide/0002.png">
 </p> 
 
 After clicking on “Create a new repository,” GitHub will immediately take you to a page to set initial settings for your new repository. Below, in <span style="color: #3c9696;">[Step 3](#step-3-github-repository-setting-recommendations)</span>, we share our setting suggestions.  
@@ -65,7 +57,7 @@ On the “Create a new repository” page, you will be asked to choose your pref
   <img 
     width="500"
     height="400"
-    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
 </p> 
 
 **Start with a template**: recoveryhub/edition_template
@@ -73,8 +65,7 @@ On the “Create a new repository” page, you will be asked to choose your pref
 <p align="left">
   <img 
     width="700"
-    height="400"
-    src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0005.png">
+    height="400"   src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0005.png">
 </p> 
 
 **Include all branches**: Off
@@ -83,7 +74,7 @@ On the “Create a new repository” page, you will be asked to choose your pref
   <img 
     width="700"
     height="400"
-    src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0006.png">
+src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0006.png">
 </p> 
 
 **Owner**: Keep your personal account selected unless your edition belongs to a specific GitHub organization.
