@@ -272,18 +272,14 @@ Your project will use three types of naming conventions: a long name, a short na
 
 Keep the prefix name basic and limited to five characters (numbers or letters) or fewer; it can indicate the edition’s version or reflect the project's name. **However you choose to name your files, keep names consistent and clear.** See below for our recommended file naming formula:
 
-                                    `edition prefix` + `_` + `padded number` + `.` + `file extension`
+`edition prefix` + `_` + `padded number` + `.` + `file extension`
 
-                                                                Examples
-    
-                                                            testkm_00001.md
-                                                            testkm_00012.xml
-                                                          testkm_logo_00003.png
-
+<u>Examples</u>
+`testkm_00001.md`
+`testkm_00012.xml`
+`testkm_logo_00003.png`      
 
 >> **`Note`**: We recommend a five digit length for padded number as it allows you to have 99,999 files correctly ordered when sorted by name. It does not matter what number’s you choose for each file name, they just must all be unique. See our <span style="color: #265095;">[Transcription Guide](https://recoveryhub.github.io/edition_template/documentation/transcription)</span> for additional file naming formulas. 
-
-
 
 #### **Folder Structure and Organization**
 There are several <span style="color: #63AEB6;">**main folders**</span> and <span style="color: #F7894E;">**subfolders**</span> you will primarily use. These folders will store various <span style="color: #E44C31;">**files**</span>, including but not limited to your documents, Markdown transcriptions, images, and more. 
