@@ -31,7 +31,12 @@ To get started with your own edition, you’ll need to create a GitHub repositor
 
 First, visit the Recovery Hub’s [repository home page](https://github.com/recoveryhub/edition_template).
 
-![Figure 1: Recovery Hub’s repository home page](https://)
+<p align="center">
+  <img 
+    width="500"
+    height="400"
+    src="[https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png]">
+</p> 
 
 Click the “Use this template” button at the top-right of the repository homepage, then select “Create a new repository” to copy it to your GitHub account.
 
