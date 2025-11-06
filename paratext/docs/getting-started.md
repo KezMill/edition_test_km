@@ -156,9 +156,9 @@ To edit and add your metadata, click the pencil icon in the top right corner and
 - <u>Header pages</u>: 
 
 > > **Banner Metadata**
-- <u>Banner image</u>:
-- <u>Banner alt text</u>:
-- <u>Banner size</u>:
+> >> <u>Banner image</u>:
+> >> <u>Banner alt text</u>:
+> >> <u>Banner size</u>:
 
 > **Additional Site Information Metadata** 
 - <u>Editor</u>:
@@ -272,13 +272,13 @@ Your project will use three types of naming conventions: a long name, a short na
 
 Keep the prefix name basic and limited to five characters (numbers or letters) or fewer; it can indicate the edition’s version or reflect the project's name. **However you choose to name your files, keep names consistent and clear.** See below for our recommended file naming formula:
 
-`edition prefix` + `_` + `padded number` + `.` + `file extension`
+                                    `edition prefix` + `_` + `padded number` + `.` + `file extension`
 
-                        Examples
+                                                                Examples
     
-                    testkm_00001.md
-                    testkm_00012.xml
-                 testkm_logo_00003.png
+                                                            testkm_00001.md
+                                                            testkm_00012.xml
+                                                          testkm_logo_00003.png
 
 
 >> **`Note`**: We recommend a five digit length for padded number as it allows you to have 99,999 files correctly ordered when sorted by name. It does not matter what number’s you choose for each file name, they just must all be unique. See our <span style="color: #265095;">[Transcription Guide](https://recoveryhub.github.io/edition_template/documentation/transcription)</span> for additional file naming formulas. 
