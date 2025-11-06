@@ -44,7 +44,7 @@ Click the “Use this template” button at the top-right of the repository home
   <img 
     width="500"
     height="400"
-    src="assets/images/guide/0002.png">
+    src="https://github.com/KezMill/edition_test_km/blob/fc221bbaafb2ab941d355eec93062f624d9b630a/assets/images/guide/0002.png">
 </p> 
 
 After clicking on “Create a new repository,” GitHub will immediately take you to a page to set initial settings for your new repository. Below, in <span style="color: #3c9696;">[Step 3](#step-3-github-repository-setting-recommendations)</span>, we share our setting suggestions.  
@@ -67,7 +67,7 @@ On the “Create a new repository” page, you will be asked to choose your pref
   <img 
     width="500"
     height="400"
-    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+    src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0005.png">
 </p> 
 
 **Include all branches**: Off
@@ -76,7 +76,7 @@ On the “Create a new repository” page, you will be asked to choose your pref
   <img 
     width="500"
     height="400"
-    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+    src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0006.png">
 </p> 
 
 **Owner**: Keep your personal account selected unless your edition belongs to a specific GitHub organization.
@@ -85,7 +85,7 @@ On the “Create a new repository” page, you will be asked to choose your pref
   <img 
     width="500"
     height="400"
-    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+    src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0007.png">
 </p> 
 
 **Repository Name**: Pick a name that is short but memorable (e.g., edition_test_km)
@@ -94,7 +94,7 @@ On the “Create a new repository” page, you will be asked to choose your pref
   <img 
     width="500"
     height="400"
-    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+    src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0008.png">
 </p> 
 
 >> **`Note`**Repository names **<u>cannot</u>** contain spaces, so we recommend using underscores in place of the spaces (e.g., edition_test_km). See <span style="color: #3c9696;">[Naming Your Project](#naming-your-project)</span> for more.
@@ -106,7 +106,7 @@ On the “Create a new repository” page, you will be asked to choose your pref
   <img 
     width="500"
     height="400"
-    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+    src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0009.png">
 </p> 
 
 **Visibility**: It’s up to you. Either way, people will not be able to make changes without your approval.
@@ -119,7 +119,7 @@ On the “Create a new repository” page, you will be asked to choose your pref
   <img 
     width="500"
     height="400"
-    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+    src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0010.png">
 </p> 
 
 Once you’ve entered your initial settings, click “create repository” at the bottom of the page. 
