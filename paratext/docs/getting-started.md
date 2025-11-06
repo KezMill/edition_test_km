@@ -40,10 +40,12 @@ First, visit the Recovery Hub’s [repository home page](https://github.com/reco
 
 Click the “Use this template” button at the top-right of the repository homepage, then select “Create a new repository” to copy it to your GitHub account.
 
-[figure 2]
-
-
-![Figure 3: “Create a new repository”](https://)
+<p align="center">
+  <img 
+    width="500"
+    height="400"
+    src="assets/images/guide/0002.png">
+</p> 
 
 After clicking on “Create a new repository,” GitHub will immediately take you to a page to set initial settings for your new repository. Below, in <span style="color: #3c9696;">[Step 3](#step-3-github-repository-setting-recommendations)</span>, we share our setting suggestions.  
 
@@ -52,30 +54,60 @@ After clicking on “Create a new repository,” GitHub will immediately take yo
 
 On the “Create a new repository” page, you will be asked to choose your preferred repository settings. Below, we list the setting fields GitHub offers when creating a new repository along with our recommendations for each:
 
-![Figure 4: GitHub New Repository Settings/Initial Setup Page](https://)
+<p align="center">
+  <img 
+    width="500"
+    height="400"
+    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+</p> 
 
 **Start with a template**: recoveryhub/edition_template
 
-![start with a template](https://)
+<p align="center">
+  <img 
+    width="500"
+    height="400"
+    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+</p> 
 
 **Include all branches**: Off
 
-![branches off](https://)
+<p align="center">
+  <img 
+    width="500"
+    height="400"
+    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+</p> 
 
 **Owner**: Keep your personal account selected unless your edition belongs to a specific GitHub organization.
 
-![owner](https://)
+<p align="center">
+  <img 
+    width="500"
+    height="400"
+    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+</p> 
 
 **Repository Name**: Pick a name that is short but memorable (e.g., edition_test_km)
 
-![repository name](https://)
+<p align="center">
+  <img 
+    width="500"
+    height="400"
+    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+</p> 
 
 >> **`Note`**Repository names **<u>cannot</u>** contain spaces, so we recommend using underscores in place of the spaces (e.g., edition_test_km). See <span style="color: #3c9696;">[Naming Your Project](#naming-your-project)</span> for more.
 
     
 **Description**: Optional. You can always add or change later. 
 
-![description](https://)
+<p align="center">
+  <img 
+    width="500"
+    height="400"
+    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+</p> 
 
 **Visibility**: It’s up to you. Either way, people will not be able to make changes without your approval.
 
@@ -83,7 +115,12 @@ On the “Create a new repository” page, you will be asked to choose your pref
 
 > **Public**: To publish your edition with GitHub Pages, your visibility settings **<u>must</u>** be set to Public, which can be changed at any time. Refer to <span style="color: #3c9696;">[Step 5](#step-5-publishing-your-edition-site)</span> for instructions on updating visibility settings at a later time. 
 
-![privacy](https://)
+<p align="center">
+  <img 
+    width="500"
+    height="400"
+    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+</p> 
 
 Once you’ve entered your initial settings, click “create repository” at the bottom of the page. 
 
@@ -91,9 +128,12 @@ It will take a few moments to set up your new repository. After it’s created, 
 
 >> **`Note`**: Your repository home page is what GitHub calls your repository’s “**main branch**.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
 
-![Figure 5: edition_test_km Repository Home Page](https://)
-
-
+<p align="center">
+  <img 
+    width="500"
+    height="400"
+    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+</p> 
 
 ### <span style="color: #0c4e6d;">**<u>Step 4: Configuring Your Edition Site</u>**</span>
 The Recovery Hub template allows you to customize your edition by making changes (editing settings) in the <span style="color: #E44C31;">**_config.yml**</span> file. 
