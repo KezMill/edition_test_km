@@ -33,6 +33,13 @@ First, visit the Recovery Hub’s [repository home page](https://github.com/reco
 
 <p align="center">
   <img 
+    width="400"
+    height="550"
+    src="https://github.com/KezMill/edition_test_km/assets/images/guide/0001.png">
+</p> 
+
+<p align="center">
+  <img 
     width="500"
     height="400"
     src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
