@@ -34,7 +34,7 @@ First, visit the Recovery Hub’s [repository home page](https://github.com/reco
 <p align="center">
   <img 
     width="500"
-    height="400"   src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+    height="400"   src="https://github.com/KezMill/edition_test_km/blob/97f68bebccb6a4b03b3a66c1665d53bd3059074c/assets/images/guide/0001.png">
 </p> 
 
 Click the “Use this template” button at the top-right of the repository homepage, then select “Create a new repository” to copy it to your GitHub account.
@@ -95,7 +95,7 @@ src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a
     src="https://github.com/KezMill/edition_test_km/blob/257a5f1a5ec1313ef239e887c0a4969f7ae1dfea/assets/images/guide/0008.png">
 </p> 
 
->> **`Note`**Repository names **<u>cannot</u>** contain spaces, so we recommend using underscores in place of the spaces (e.g., edition_test_km). See <span style="color: #3c9696;">[Naming Your Project](#naming-your-project)</span> for more.
+> **`Note`**Repository names **<u>cannot</u>** contain spaces, so we recommend using underscores in place of the spaces (e.g., edition_test_km). See <span style="color: #3c9696;">[Naming Your Project](#naming-your-project)</span> for more.
 
     
 **Description**: Optional. You can always add or change later. 
@@ -124,7 +124,7 @@ Once you’ve entered your initial settings, click “create repository” at th
 
 It will take a few moments to set up your new repository. After it’s created, GitHub will automatically redirect you to your repository’s home page. 
 
->> **`Note`**: Your repository home page is what GitHub calls your repository’s “**main branch**.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
+> **`Note`**: Your repository home page is what GitHub calls your repository’s “**main branch**.” The main branch is the primary and definitive version of the project's code, where you organize and store all your folders and files. In Figure 5, you’ll see it’s set as your repository’s default.
 
 <p align="center">
   <img 
@@ -190,11 +190,7 @@ IMAGE (highlight what will be removed)
 
 IMAGE (highlight updated)
 
->> **`Note`**:
-
-
-
-You can either update your URLs before or after you publish your site. GitHub provides both on [name of page] once your site has become live. See <span style="color: #3c9696;">[Step 5](#publishing-your-edition-site-with-github-pages)</span> for more information on publishing your site with GitHub pages. 
+>> **`Note`**: You can either update your URLs before or after you publish your site. GitHub provides both on [name of page] once your site has become live. See <span style="color: #3c9696;">[Step 5](#publishing-your-edition-site-with-github-pages)</span> for more information on publishing your site with GitHub pages. 
 
 
 #### **Customizing Edition: Updating Settings in _config.yml** 
