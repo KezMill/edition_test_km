@@ -132,7 +132,7 @@ It will take a few moments to set up your new repository. After it’s created, 
   <img 
     width="500"
     height="400"
-    src="https://github.com/KezMill/edition_test_km/blob/25c24383a4f9acd063583ffc303dbf9e1c624785/assets/images/guide/0001.png">
+    src="">
 </p> 
 
 ### <span style="color: #0c4e6d;">**<u>Step 4: Configuring Your Edition Site</u>**</span>
