@@ -146,28 +146,27 @@ To edit and add your metadata, click the pencil icon in the top right corner and
 
 #### **Metadata**
 
-> **Site Information Metadata**
+**Site Information Metadata**
+> <u>Title</u>: This should match your project’s long name, the full title of your published edition.\
+> <u>URL and base URL</u>: Both must match your published site (see <span style="color: #265095;">[above](#change-url-and-base-url)</span> for instructions).
+> <u>Description</u>: This is a paragraph-length description that appears in the site’s footer. 
 
-- <u>Title</u>: This should match your project’s long name, the full title of your published edition.
-- <u>URL and base URL</u>: both must match your published site (see <span style="color: #265095;">[above](#change-url-and-base-url)</span> for instructions). 
-- <u>Description</u>: This is a paragraph-length description that appears in the site’s footer. 
+**Navigation Metadata**
+> <u>Header pages</u>: These are the links in the navigation menu.
 
-> **Navigation Metadata**
-- <u>Header pages</u>: 
+**Banner Metadata**
+> <u>Banner image</u>: The image used for your site's banner.
+> <u>Banner alt text</u>: The short descriptive text that provides an alternative to visual content.
+> <u>Banner size</u>: You can customize your banner image size here. 
 
-> > **Banner Metadata**
-> >> <u>Banner image</u>:
-> >> <u>Banner alt text</u>:
-> >> <u>Banner size</u>:
-
-> **Additional Site Information Metadata** 
-- <u>Editor</u>:
-- Contact information
-    - name
-    - email
-    - institution
-    - GitHub username
-    - social media usernames (optional)
+**Additional Site Information Metadata** 
+> <u>Editor</u>: A defult so you don't have to add metadata for every item as most or all your pages will have the same editor(s).
+> Contact information: The following contact information that appears in the site's footer.
+>> name
+>> email
+>> institution
+>> GitHub username
+>> social media usernames (optional)
 
 There is also the ability to update metadata in the list of categories/genres up for the texts in your edition.
 
@@ -274,10 +273,10 @@ Keep the prefix name basic and limited to five characters (numbers or letters) o
 
 `edition prefix` + `_` + `padded number` + `.` + `file extension`
 
-<u>Examples</u>
-`testkm_00001.md`
-`testkm_00012.xml`
-`testkm_logo_00003.png`      
+<u>Examples</u><br>
+`testkm_00001.md`<br>
+`testkm_00012.xml`<br>
+`testkm_logo_00003.png`<br>      
 
 >> **`Note`**: We recommend a five digit length for padded number as it allows you to have 99,999 files correctly ordered when sorted by name. It does not matter what number’s you choose for each file name, they just must all be unique. See our <span style="color: #265095;">[Transcription Guide](https://recoveryhub.github.io/edition_template/documentation/transcription)</span> for additional file naming formulas. 
 
